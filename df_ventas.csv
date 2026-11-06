@@ -1,0 +1,1276 @@
+﻿id_venta,fecha,cliente,ciudad,producto,categoria,cantidad,precio_unitario,descuento,metodo_pago,edad_cliente,vendedor
+V1180,18/05/2026,Natalia Jiménez,MEDELLÍN,Laptop,TECNOLOGÍA,6,2500000,0,Daviplata,37.0,Luisa
+V0343,2026/02/08,Gabriela Muñoz,ARMENIA,Mouse,Tecnología,3,45000,0%,Transferencia,56.0,Luisa
+V0650,27/02/2026,Carlos Vargas,MANIZALES,Audífonos,Tecnología ,5,180000,0.15,Transferencia,35.0,Diana
+V0773,26/03/26,Luisa Fernández,cali,Mouse,TECNOLOGÍA,5,45000,0%,Efectivo,23.0,Diana
+V0804,21/05/26,Camila Torres,bogotá,Bolígrafo, Papelería,4,3500,0%,Tarjeta,41.0,Carlos
+V0359,01-04-2026,Diego Restrepo,Armenia,Tablet,Tecnología,2,$1.100.000,5%,Daviplata,64.0,Luisa
+V0045,2026-05-01,Juliana Morales,,Audífonos,tecnologia,4,180000,0.15,Daviplata,25.0,Andrés
+V0232,45/05/2026,Sofía Ramírez,armenia,Mochila,ACCESORIOS,0,140000,10%,Tarjeta,66.0,Andrés
+V0619,20/07/26,Felipe Arias,MEDELLÍN,Agenda,PAPELERÍA,2,25000,15%,Tarjeta,68.0,María
+V0044,14/03/26,Daniel Moreno, Medellín,Escritorio,Oficina,1,580000,5%,Tarjeta,26.0,Felipe
+V0589,01/01/26,Daniel Moreno,Armenia,Mouse,Tecnología,6,45000,0.1,Transferencia,53.0,María
+V0064,45/05/2026,Luisa Fernández,Manizales,Escritorio,OFICINA,6,580000,5%,Nequi,26.0,Andrés
+V1016,15-04-2026,Andrés Martínez,CALI,Laptop,Tecnología ,5,2500000,0%,Efectivo,66.0,Felipe
+V0271,01-01-2026,Carlos Vargas, Bogotá ,Mochila,accesorios,6,140000,15%,Transferencia,32.0,Luisa
+V1141,21/03/26,Valentina Rodríguez,dosquebradas,Bolígrafo,papeleria,5,3500,0.1,Daviplata,51.0,Andrés
+V0077,21/03/26,Valentina Rodríguez,dosquebradas,Bolígrafo, Papelería,3,99999999,10%,Transferencia,58.0,María
+V0082,2026-01-28,Luisa Fernández,Bogota,Mochila,accesorios,2,140000,15%,Transferencia,39.0,Andrés
+V0644,2026/05/28,Diego Restrepo,cali,Monitor,Tecnología,4,850000,15%,Tarjeta,34.0,Luisa
+V0671,2026-03-31,Mateo Díaz,cartago,Escritorio,oficina,5,$580.000,20%,Efectivo,64.0,Carlos
+V0487,12/02/2026,Juliana Morales,Manizales,Cuaderno,papeleria,1,12000,0,Daviplata,42.0,Felipe
+V0156,03-03-2026,Diego Restrepo,PEREIRA,Audífonos,Tecnología ,3,180000,0.05,Daviplata,48.0,Diana
+V0719,2026/04/14,Camila Torres,PEREIRA,Teclado,Tecnología ,5,120000,15%,Daviplata,49.0,Luisa
+V0868,2026/01/05,Santiago Hernández, Cali ,Mouse,Tecnología ,4,45000,15%,Nequi,37.0,Luisa
+V0772,31/01/26,Santiago Hernández,CALI,Bolígrafo,Papelería,6,3500,0.05,Nequi,65.0,Diana
+V1182,2026/06/20,Valentina Rodríguez, Pereira,Laptop,Tecnología ,3,2500000,0.2,Nequi,70.0,María
+V0782,07-03-2026,Mariana Castro,Bogotá,Agenda,papeleria,3,-50000,10%,Efectivo,30.0,Andrés
+V1031,12-07-2026,Mateo Díaz, Pereira,Escritorio, Oficina ,4,580000,0%,Efectivo,43.0,Luisa
+V0859,08/03/26,Pedro Ruiz,pereira,Agenda,Papelería,5,25000,0.05,Efectivo,23.0,Carlos
+V0733,16/01/2026,Juliana Morales,ARMENIA,Agenda,Papelería,3,25000,0%,Nequi,,Luisa
+V0295,21/04/2026,Andrés Martínez,dosquebradas,Bolígrafo,papeleria,3,$3.500,20%,Transferencia,44.0,Carlos
+V0222,10/07/26,Juliana Morales, Bogotá ,Monitor,tecnologia,3,850000,15%,Daviplata,25.0,Carlos
+V1193,11/06/2026,Valentina Rodríguez,medellin,Bolígrafo,papeleria,4,3500,10%,Daviplata,46.0,Carlos
+V0185,03/01/2026,Alejandro Ortiz,cali,Impresora,Tecnología,3,650000,5%,Nequi,41.0,Carlos
+V0102,14/04/2026,Laura Gómez,CALI,Cuaderno,PAPELERÍA,3,12000,20%,Nequi,56.0,Felipe
+V0276,21/01/2026,Manuela Cárdenas,cartago,Celular,Tecnología,5,1800000,0%,Efectivo,36.0,Diana
+V0024,20-03-2026,Nicolás Quintero,Armenia,Celular,Tecnología,2,99999999,5%,Transferencia,67.0,María
+V0486,12/06/26,Paula Sánchez,Pereira,Mouse, Tecnologia ,5,45000,5%,Daviplata,,Andrés
+V0079,2026/04/17,Juan López, Cali ,Impresora,Tecnología ,3,650000,5%,Tarjeta,61.0,Carlos
+V1044,13/07/26,Laura Gómez, Bogotá ,Celular,Tecnología ,4,1800000,10%,Nequi,25.0,María
+V1214,08/07/26,Natalia Jiménez,CALI,Teclado,Tecnología ,3,120000,0%,Transferencia,43.0,Diana
+V0129,11/07/26,Laura Gómez,,Impresora,TECNOLOGÍA,5,650000,10%,Tarjeta,60.0,Felipe
+V0998,2026-04-06,Nicolás Quintero, Bogotá ,Bolígrafo, Papelería,3,3500,0%,Transferencia,52.0,Luisa
+V0622,2026/02/01,Pedro Ruiz, Medellín,Mochila, Accesorios ,6,140000,15%,Transferencia,52.0,María
+V0669,05/07/26,Laura Gómez,medellin,Maletín,ACCESORIOS,4,99999999,10%,Daviplata,40.0,Andrés
+V0052,15/03/26,Ana Pérez,cartago,Impresora,Tecnología,6,650000,15%,Efectivo,38.0,Felipe
+V0480,12/04/26,Manuela Cárdenas,MANIZALES,Maletín,Accesorios,3,190000,20%,Daviplata,23.0,Carlos
+V0964,2026-05-28,Gabriela Muñoz,MANIZALES,Teclado,TECNOLOGÍA,2,120000,0.2,Tarjeta,53.0,Luisa
+V0583,13/03/2026,Sofía Ramírez,,Impresora,TECNOLOGÍA,-3,650000,0%,Daviplata,25.0,Felipe
+V0731,14-06-2026,Felipe Arias,cartago,Audífonos,tecnologia,4,180000,15%,Nequi,54.0,Diana
+V0266,2026-02-05,Nicolás Quintero, Cali ,Silla ergonómica,OFICINA,4,720000,5%,Tarjeta,28.0,Luisa
+V0240,29/06/2026,Pedro Ruiz,Dosquebradas,Celular, Tecnologia ,1,1800000,0%,Efectivo,44.0,Diana
+V0347,17/05/26,Carlos Vargas,armenia,Audífonos,tecnologia,3,180000,15%,Transferencia,57.0,Felipe
+V0307,14-06-2026,Laura Gómez,CARTAGO,Escritorio,Oficina,0,580000,15%,Transferencia,56.0,Felipe
+V1044,13/07/26,Laura Gómez, Bogotá ,Celular,Tecnología ,4,1800000,10%,Nequi,25.0,María
+V0364,05-05-2026,Natalia Jiménez, Cali ,Monitor,tecnologia,2,850000,20%,Efectivo,70.0,Felipe
+V1073,2026-05-04,Paula Sánchez, Bogotá ,Teclado, Tecnologia ,1,120000,15%,Daviplata,35.0,Carlos
+V1007,2026-03-28,Carlos Vargas,PEREIRA,Celular,tecnologia,4,1800000,0,Nequi,36.0,Luisa
+V0209,09/05/2026,Valentina Rodríguez,cali,Laptop,Tecnología,5,2500000,20%,Nequi,,Carlos
+V0426,2026/04/04,Juliana Morales,Dosquebradas,Audífonos,Tecnología ,4,180000,0.05,Tarjeta,52.0,Diana
+V0844,2026-01-15,,Cali,Celular, Tecnologia ,1,1800000,0%,Tarjeta,38.0,Felipe
+V0977,04-06-2026,Santiago Hernández,armenia,Mochila,accesorios,5,140000,0.2,Nequi,38.0,Felipe
+V0221,2026/05/02,Alejandro Ortiz,MEDELLÍN,Bolígrafo,Papelería,6,3500,0.1,Efectivo,29.0,Andrés
+V0906,11/04/2026,Sofía Ramírez, Cali ,Agenda,papeleria,1,25000,10%,Efectivo,55.0,Diana
+V1236,16/02/2026,Valentina Rodríguez,bogotá,Bolígrafo,Papelería,1,3500,15%,Tarjeta,59.0,Andrés
+V0840,27/06/2026,Laura Gómez,Cartago,Agenda,papeleria,4,25000,10%,Daviplata,25.0,Carlos
+V0033,2026/01/16,Daniel Moreno,dosquebradas,Tablet,Tecnología ,2,1100000,15%,Daviplata,66.0,Felipe
+V0241,28/01/26,Camila Torres,Cartago,Celular,Tecnología ,4,1800000,0,Tarjeta,46.0,Felipe
+V0244,2026/07/02,Gabriela Muñoz,BOGOTA,Escritorio, Oficina ,3,580000,0.1,Daviplata,29.0,Felipe
+V1042,24/06/2026,Natalia Jiménez,cali,Cuaderno,PAPELERÍA,3,12000,5%,Daviplata,39.0,Felipe
+V0760,2026/04/01,Luisa Fernández,Dosquebradas,Tablet, Tecnologia ,2,1100000,15%,Nequi,60.0,Luisa
+V0941,21-04-2026,Natalia Jiménez, Cali ,Mochila, Accesorios ,2,$140.000,0.15,Efectivo,25.0,Andrés
+V0169,16-01-2026,Camila Torres,MANIZALES,Maletín, Accesorios ,3,190000,5%,Nequi,33.0,Luisa
+V0835,27/05/26,Juan López,DOSQUEBRADAS,Maletín,accesorios,5,190000,5%,Daviplata,37.0,Andrés
+V0199,28/03/26,Gabriela Muñoz,Armenia,Mouse,Tecnología ,3,45000,0.1,Efectivo,49.0,
+V0368,18/01/26,Laura Gómez,Pereira ,Laptop,tecnologia,1,2500000,15%,Daviplata,36.0,Diana
+V1003,15/04/26,Pedro Ruiz,armenia,Mochila,Accesorios,5,$140.000,20%,Daviplata,70.0,María
+V1048,03/02/2026,Sofía Ramírez,dosquebradas,Mochila,Accesorios,4,140000,0%,Transferencia,67.0,Felipe
+V0707,2026-04-07,Luisa Fernández,Cali,Escritorio, Oficina ,2,580000,5%,Tarjeta,,Luisa
+V1211,18/06/2026,Juliana Morales,Manizales,Mochila,accesorios,6,140000,20%,Efectivo,26.0,Carlos
+V0860,06/04/26,Laura Gómez, Medellín,Teclado,TECNOLOGÍA,1,120000,5%,Tarjeta,150.0,Felipe
+V0708,06/06/2026,Daniel Moreno,CALI,Silla ergonómica, Oficina ,2,720000,5%,Nequi,33.0,Diana
+V0375,28/01/26,Santiago Hernández,cartago,Tablet,Tecnología,6,1100000,10%,Daviplata,20.0,Diana
+V0562,07/03/2026, Felipe Arias ,Pereira ,Silla ergonómica,OFICINA,1,720000,0%,Daviplata,45.0,Luisa
+V0550,2026/05/17,,DOSQUEBRADAS,Teclado,Tecnología ,6,120000,0.15,Nequi,67.0,María
+V0778,2026/01/02,Manuela Cárdenas,medellin,Impresora,Tecnología,3,650000,20%,Efectivo,37.0,María
+V0059,18/01/2026,Gabriela Muñoz,Manizales,Escritorio,Oficina,2,580000,10%,Transferencia,58.0,Carlos
+V1241,26/06/26,Juliana Morales,Bogotá,Audífonos, Tecnologia ,1,180000,0,Daviplata,25.0,Luisa
+V1136,2026/06/24,Mateo Díaz,Pereira ,Celular,Tecnología,3,1800000,0.1,Tarjeta,0.0,Carlos
+V0680,20/07/2026,Sebastián Rojas,DOSQUEBRADAS,Bolígrafo,papeleria,2,3500,20%,Transferencia ,48.0,Luisa
+V0591,10-03-2026,Laura Gómez,Cartago,Celular, Tecnologia ,2,1800000,20%,Efectivo,64.0,María
+V0514,22/05/26,Ana Pérez,Armenia,Bolígrafo,papeleria,4,3500,15%,Transferencia,62.0,Diana
+V0576,2026/05/05,Pedro Ruiz,CARTAGO,Mouse, Tecnologia ,1,45000,5%,Efectivo,41.0,María
+V0050,2026-04-21,Nicolás Quintero,MANIZALES,Maletín,Accesorios,6,$190.000,10%,Efectivo,61.0,Luisa
+V0329,2026/06/07,Natalia Jiménez,Pereira ,Mochila,Accesorios,4,140000,0.1,Nequi,56.0,Luisa
+V0963,2026/07/09,Pedro Ruiz,BOGOTA,Audífonos,TECNOLOGÍA,3,-50000,0.15,Transferencia,51.0,Carlos
+V0193,2026/02/14,,DOSQUEBRADAS,Tablet, Tecnologia ,3,1100000,5%,Tarjeta,57.0,Carlos
+V0087,25/01/2026,Carlos Vargas,MANIZALES,Celular, Tecnologia ,5,1800000,0.15,Efectivo,27.0,Felipe
+V0555,18/03/26,Alejandro Ortiz,manizales,Tablet,tecnologia,6,1100000,,Daviplata,40.0,Luisa
+V0744,18-07-2026,Paula Sánchez,Cali,Silla ergonómica, Oficina ,3,720000,0%,Efectivo,62.0,Andrés
+V1183,17/07/26,Carlos Vargas,medellin,Cuaderno,Papelería,4,12000,5%,Tarjeta,59.0,Andrés
+V0842,09/05/2026,Carlos Vargas,Cartago,Maletín,,2,$190.000,5%,Nequi,27.0,Luisa
+V0814,28-01-2026,Gabriela Muñoz,PEREIRA,Escritorio, Oficina ,5,580000,0%,Nequi,61.0,Felipe
+V0978,2026-06-26,Pedro Ruiz,CARTAGO,Laptop,tecnologia,1,2500000,0%,Efectivo,47.0,Diana
+V1235,08/02/2026,Manuela Cárdenas,Dosquebradas,Laptop,Tecnología ,5,2500000,10%,Transferencia,33.0,Diana
+V1142,2026/05/01,Diego Restrepo,bogotá,Audífonos,Tecnología,1,180000,15%,Tarjeta,27.0,Andrés
+V0423,2026/01/12,Sebastián Rojas,Armenia,Escritorio,,2,580000,0.1,Efectivo,39.0,María
+V0514,22/05/26,Ana Pérez,Armenia,Bolígrafo,papeleria,4,3500,15%,Transferencia,62.0,Diana
+V0454,25/07/26,Laura Gómez,Pereira ,Maletín,Accesorios,4,190000,0.1,,51.0,Luisa
+V0124,2026-07-16,Natalia Jiménez,Cartago,Laptop,TECNOLOGÍA,1,2500000,20%,Tarjeta,29.0,Carlos
+V0936,20-02-2026,Camila Torres,DOSQUEBRADAS,Bolígrafo,PAPELERÍA,1,3500,20%,Efectivo,26.0,Carlos
+V0899,10-01-2026,Alejandro Ortiz,Armenia,Tablet,Tecnología ,4,1100000,0%,Nequi,63.0,Carlos
+V1196,23/07/26,Sofía Ramírez,Medellín,Cuaderno,Papelería,4,12000,10%,Efectivo,53.0,Luisa
+V0706,12/03/26,Sofía Ramírez,Cali,Celular,Tecnología,4,$1.800.000,20%,Efectivo,20.0,María
+V0309,18-06-2026,Gabriela Muñoz,Dosquebradas,Silla ergonómica,oficina,2,720000,20%,Efectivo,24.0,Felipe
+V0197,2026-06-29,Laura Gómez,pereira,Agenda,papeleria,3,25000,0.2,Tarjeta,49.0,Felipe
+V0334,2026-04-18,Paula Sánchez,cartago,Laptop,Tecnología ,-1,2500000,10%,Tarjeta,26.0,Felipe
+V0421,22-03-2026,Sebastián Rojas,MEDELLÍN,Impresora, Tecnologia ,4,$650.000,15%,Nequi,67.0,Carlos
+V1036,26/04/2026,Santiago Hernández,dosquebradas,Celular, Tecnologia ,6,1800000,20%,Nequi,59.0,María
+V0255,2026/07/04,Felipe Arias,BOGOTA,Cuaderno, Papelería,5,12000,0%,Nequi,50.0,Luisa
+V0524,2026-06-18,Diego Restrepo,Dosquebradas,Silla ergonómica,Oficina,2,720000,15%,Tarjeta,19.0,Diana
+V0911,13-07-2026,,BOGOTA,Tablet,TECNOLOGÍA,6,1100000,20%,Transferencia,54.0,Andrés
+V0606,2026/06/27,Pedro Ruiz,Bogotá,Mochila,ACCESORIOS,4,140000,15%,Daviplata,69.0,Andrés
+V0290,22/03/26,Luisa Fernández,cartago,Monitor,tecnologia,3,850000,0.1,Efectivo,67.0,Carlos
+V0297,13/06/2026,Pedro Ruiz,manizales,Mouse,tecnologia,4,45000,20%,Nequi,27.0,Diana
+V0988,12/06/2026,Nicolás Quintero,manizales,Agenda,Papelería,1,25000,20%,Tarjeta,23.0,Carlos
+V0742,18/04/26,Valentina Rodríguez,medellin,Mouse,TECNOLOGÍA,4,45000,10%,Tarjeta,37.0,Carlos
+V0713,2026/01/13,Sofía Ramírez,Dosquebradas,Cuaderno,papeleria,5,12000,5%,Tarjeta,63.0,Carlos
+V1224,03/02/26,Paula Sánchez,bogotá,Bolígrafo, Papelería,3,$3.500,0,Transferencia,64.0,Andrés
+V0030,2026-06-26,Paula Sánchez, Medellín,Cuaderno,PAPELERÍA,1,12000,0%,Nequi,,Felipe
+V0635,12-02-2026,Valentina Rodríguez,armenia,Audífonos,Tecnología,2,180000,15%,Nequi,38.0,María
+V0356,05-04-2026,Manuela Cárdenas,ARMENIA,Laptop, Tecnologia ,5,0,0,Nequi,19.0,Luisa
+V0032,02/07/2026,Laura Gómez,dosquebradas,Mouse,TECNOLOGÍA,3,45000,5%,Daviplata,32.0,Luisa
+V0807,2026/06/08,Natalia Jiménez,dosquebradas,Cuaderno, Papelería,2,12000,5%,Transferencia,21.0,María
+V0673,07/04/26,Valentina Rodríguez,Bogota,Impresora,Tecnología,2,650000,20%,Tarjeta,32.0,María
+V0852,24-01-2026,Mateo Díaz,ARMENIA,Mochila,accesorios,3,140000,0.1,Transferencia,,Andrés
+V0071,10/07/26,Daniel Moreno,CARTAGO,Mouse,Tecnología,1,45000,15%,Tarjeta,32.0,Luisa
+V1132,16/02/2026,Sebastián Rojas,armenia,Tablet,Tecnología ,0,1100000,15%,Daviplata,56.0,Felipe
+V0479,26-04-2026,Camila Torres,Armenia,Escritorio, Oficina ,3,580000,0.15,Nequi,50.0,María
+V1089,2026/07/30,Luisa Fernández, Cali ,Mochila,ACCESORIOS,1,140000,20%,Nequi,66.0,Carlos
+V0599,24/03/2026,Manuela Cárdenas, Cali ,Mouse, Tecnologia ,2,45000,5%,Daviplata,44.0,Luisa
+V0723,13-05-2026,Ana Pérez,armenia,Celular,tecnologia,5,1800000,10%,Efectivo,26.0,Luisa
+V0582,11/05/2026,Juan López,Pereira,Laptop,TECNOLOGÍA,4,2500000,0%,Efectivo,44.0,Andrés
+V0924,03/06/26,Gabriela Muñoz,PEREIRA,Silla ergonómica,Oficina,5,720000,0.05,Daviplata,23.0,Andrés
+V0528,04/01/2026,Sebastián Rojas,MANIZALES,Teclado, Tecnologia ,4,99999999,0.1,Tarjeta,59.0,Diana
+V1147,2026-01-27,Camila Torres,armenia,Escritorio, Oficina ,2,580000,0%,Nequi,42.0,Carlos
+V0114,04-02-2026,Luisa Fernández,CARTAGO,Tablet,TECNOLOGÍA,3,1100000,10%,Daviplata,30.0,Diana
+V0999,13/03/2026,Diego Restrepo,MEDELLÍN,Bolígrafo,PAPELERÍA,3,3500,0.2,Efectivo,67.0,Luisa
+V0436,07-03-2026,Juan López,Manizales,Maletín, Accesorios ,3,190000,0,Nequi,,Diana
+V1240,21-03-2026,Camila Torres,Medellín,Agenda,papeleria,6,25000,0%,Efectivo,25.0,Carlos
+V0498,25-07-2026,Pedro Ruiz,Dosquebradas,Maletín,Accesorios,4,190000,0%,Nequi,53.0,Luisa
+V0108,2026/02/11,Camila Torres,MANIZALES,Teclado,Tecnología ,3,120000,0.05,Tarjeta,34.0,Felipe
+V0989,2026-01-07,Gabriela Muñoz, Cali ,Bolígrafo,Papelería,6,3500,0%,,65.0,Felipe
+V1019,15/04/2026,Valentina Rodríguez,ARMENIA,Celular,TECNOLOGÍA,6,1800000,0,Tarjeta,24.0,Andrés
+V0668,2026-07-24,,Cartago,Agenda,PAPELERÍA,1,25000,15%,Efectivo,54.0,Luisa
+V1175,28/06/26,Nicolás Quintero,Bogota,Silla ergonómica, Oficina ,3,720000,10%,Efectivo,20.0,Diana
+V1149,2026-03-22,Laura Gómez,Armenia,Impresora,TECNOLOGÍA,5,$650.000,10%,Efectivo,44.0,Diana
+V0747,2026-03-21,Carlos Vargas, Bogotá ,Audífonos,Tecnología,4,180000,15%,Efectivo,61.0,Andrés
+V0452,2026/07/26,Juliana Morales,Dosquebradas,Agenda, Papelería,3,25000,20%,Transferencia,49.0,Felipe
+V0935,05-05-2026,Sofía Ramírez,CARTAGO,Bolígrafo,PAPELERÍA,4,3500,20%,Efectivo,22.0,María
+V0430,2026/07/30,Paula Sánchez,CARTAGO,Audífonos, Tecnologia ,3,180000,5%,Nequi,30.0,Diana
+V0262,20-05-2026,Luisa Fernández, Bogotá ,Audífonos,TECNOLOGÍA,5,180000,0.15,Daviplata,55.0,Carlos
+V0817,2026-05-08,Manuela Cárdenas,dosquebradas,Mochila,,1,140000,,Efectivo,38.0,Luisa
+V0554,30/06/2026,Alejandro Ortiz,Cali,Mochila,accesorios,5,140000,0.15,Nequi,21.0,Diana
+V1134,2026-01-31,Pedro Ruiz,,Celular,Tecnología,4,1800000,15%,Daviplata,,Diana
+V0175,28/07/2026,Sebastián Rojas,Cartago,Bolígrafo,Papelería,2,3500,5%,Tarjeta,40.0,María
+V0863,29/06/26,Sebastián Rojas,Manizales,Monitor, Tecnologia ,1,850000,0%,Transferencia,43.0,Andrés
+V0520,2026/03/26,Natalia Jiménez, Medellín,Silla ergonómica,oficina,5,720000,15%,Efectivo,47.0,Felipe
+V0298,2026/03/01,Laura Gómez,Medellín,Laptop,TECNOLOGÍA,1,99999999,0.05,Nequi,41.0,Carlos
+V0378,2026/02/13,Alejandro Ortiz,dosquebradas,Escritorio,Oficina,5,580000,0, tarjeta ,32.0,Felipe
+V0740,29/06/2026,Carlos Vargas,Manizales,Celular, Tecnologia ,1,$1.800.000,10%,Daviplata,39.0,María
+V0424,2026-03-21,Paula Sánchez,DOSQUEBRADAS,Cuaderno, Papelería,5,$12.000,0%,Transferencia,39.0,Carlos
+V0055,22-05-2026,Sofía Ramírez,Manizales,Impresora,TECNOLOGÍA,2,650000,15%,Transferencia,22.0,Felipe
+V0278,21/06/26,Juliana Morales,armenia,Celular,TECNOLOGÍA,4,1800000,15%,Efectivo,23.0,Felipe
+V0893,10/05/2026,Gabriela Muñoz,Dosquebradas,Celular, Tecnologia ,6,1800000,5%,Tarjeta,69.0,Felipe
+V0057,10/07/26,Sofía Ramírez, Bogotá ,Celular,Tecnología,4,1800000,0.15,Daviplata,49.0,Luisa
+V0579,09-05-2026,Laura Gómez,Dosquebradas,Celular,Tecnología ,1,1800000,5%,Efectivo,18.0,Diana
+V0110,2026/06/13,Paula Sánchez,Bogotá,Escritorio,oficina,1,580000,15%,Nequi,33.0,Luisa
+V0211,2026-05-31,Daniel Moreno,armenia,Escritorio,OFICINA,5,580000,15%,Nequi,24.0,Diana
+V0905,2026-02-20,Santiago Hernández,cali,Cuaderno,PAPELERÍA,4,12000,0.2,Efectivo,29.0,Diana
+V0313,30-05-2026,Andrés Martínez,CARTAGO,Maletín,Accesorios,2,190000,5%,Daviplata,31.0,Diana
+V0210,22/04/26,Sofía Ramírez,MANIZALES,Cuaderno, Papelería,2,12000,0.05,Tarjeta,22.0,Diana
+V1081,2026-07-30,Juan López,manizales,Tablet, Tecnologia ,2,$1.100.000,0%,Nequi,26.0,Carlos
+V1203,17/07/2026,Santiago Hernández,bogotá,Cuaderno,Papelería,4,$12.000,10%,Efectivo,64.0,Carlos
+V0219,2026/06/02,Valentina Rodríguez,medellin,Cuaderno,,5,12000,0.1,Daviplata,58.0,Luisa
+V0943,2026-05-01,Juan López,MEDELLÍN,Laptop,TECNOLOGÍA,2,2500000,0%,Tarjeta,70.0,Carlos
+V0362,2026/06/02,Alejandro Ortiz,PEREIRA,Agenda, Papelería,6,25000,10%,Tarjeta,28.0,María
+V0763,03-06-2026,Gabriela Muñoz,CALI,Agenda,papeleria,6,25000,15%,Transferencia,41.0,Carlos
+V0494,2026/06/24,Pedro Ruiz,cartago,Audífonos,TECNOLOGÍA,5,-50000,15%,Daviplata,38.0,Carlos
+V0304,2026-02-18,Luisa Fernández, Medellín,Impresora,TECNOLOGÍA,5,650000,0.05,Transferencia,56.0,Felipe
+V0495,2026-07-04,Alejandro Ortiz, Cali ,Maletín,Accesorios,2,190000,0%,Efectivo,30.0,María
+V0428,22/03/26,Andrés Martínez,Cartago,Silla ergonómica, Oficina ,2,720000,0.15,Transferencia,29.0,Diana
+V1186,2026/04/13,Camila Torres,CARTAGO,Tablet,Tecnología,6,1100000,10%,Tarjeta,21.0,Andrés
+V0529,22/07/2026,Sofía Ramírez,MEDELLÍN,Silla ergonómica, Oficina ,5,720000,5%,Tarjeta,42.0,Andrés
+V0535,2026-04-19,Daniel Moreno,medellin,Impresora,TECNOLOGÍA,5,650000,0.2,Nequi,19.0,
+V0887,19/04/2026,Pedro Ruiz, Pereira,Monitor,tecnologia,6,850000,0.1,Tarjeta,25.0,Carlos
+V0755,2026/01/12,Mariana Castro,CARTAGO,Cuaderno,PAPELERÍA,5,12000,15%,Tarjeta,19.0,María
+V0890,21-06-2026,Santiago Hernández,PEREIRA,Laptop,TECNOLOGÍA,3,2500000,5%,Tarjeta,54.0,Felipe
+V0919,2026/03/11,Pedro Ruiz,pereira,Escritorio,OFICINA,4,580000,0%,Nequi,28.0,Felipe
+V0969,01/06/2026,Santiago Hernández,Pereira,Tablet, Tecnologia ,2,1100000,10%,Efectivo,60.0,María
+V0829,24/06/26,Juliana Morales,Armenia,Laptop,tecnologia,3,2500000,0%,Efectivo,42.0,Diana
+V0171,2026/02/25,Nicolás Quintero,Pereira,Tablet,Tecnología,4,1100000,5%,Nequi,26.0,Carlos
+V0299,01-05-2026,Santiago Hernández,pereira,Silla ergonómica, Oficina ,2,720000,5%,Tarjeta,67.0,Felipe
+V1220,28-03-2026, Camila Torres ,,Bolígrafo,papeleria,6,3500,5%,Tarjeta,-5.0,María
+V0395,2026-02-22,Daniel Moreno,Cali,Mochila,Accesorios,5,140000,0%,Efectivo,40.0,Felipe
+V0652,02/05/26,Ana Pérez,Cartago,Cuaderno, Papelería,4,-50000,0.1,Tarjeta,18.0,Carlos
+V0584,06/04/2026,Valentina Rodríguez,Cartago,Escritorio,Oficina,2,580000,10%,Daviplata,65.0,Felipe
+V0383,02-05-2026,Juan López,Bogotá,Mochila,accesorios,4,140000,5%,Efectivo,31.0,Carlos
+V0333,2026/01/22,,medellin,Celular,tecnologia,5,1800000,15%,Efectivo,53.0,Diana
+V0462,01-05-2026,Camila Torres,manizales,Monitor, Tecnologia ,3,850000,15%,Nequi,56.0,Diana
+V0478,2026/07/20,Laura Gómez, Pereira,Teclado, Tecnologia ,-3,120000,15%,Daviplata,70.0,Andrés
+V0523,27/06/2026,Sofía Ramírez,,Cuaderno, Papelería,6,12000,15%,Tarjeta,18.0,Carlos
+V0234,01/06/2026,Mateo Díaz,Cartago,Maletín, Accesorios ,4,190000,20%,Nequi,19.0,Carlos
+V0873,06-07-2026,Santiago Hernández,Cali,Maletín,ACCESORIOS,3,190000,0%,Transferencia,27.0,Felipe
+V0200,07/07/26,Juan López,MEDELLÍN,Audífonos,Tecnología ,6,180000,0.1,Efectivo,43.0,Diana
+V1170,03/06/2026,Juliana Morales,,Teclado,Tecnología,1,120000,15%,Transferencia,37.0,María
+V0248,05-07-2026,Mariana Castro,Manizales,Bolígrafo,papeleria,2,3500,0.1,Daviplata,65.0,Andrés
+V1088,fecha desconocida,Laura Gómez,Cartago,Bolígrafo,PAPELERÍA,2,3500,10%,Daviplata,67.0,Carlos
+V0595,20-05-2026,Camila Torres,pereira,Laptop,Tecnología,6,2500000,10%,Efectivo,36.0,Luisa
+V0011,2026-02-27,Sofía Ramírez,Bogota,Monitor,tecnologia,1,0,10%,Transferencia,58.0,Diana
+V0148,2026/04/10,Juan López, Bogotá ,Mochila,accesorios,6,140000,0.2,Tarjeta,64.0,Andrés
+V0539,07-02-2026,Natalia Jiménez,Bogota,Cuaderno,papeleria,3,12000,5%,Nequi,67.0,María
+V1034,27/04/26,Ana Pérez,medellin,Tablet,Tecnología,5,1100000,0%,Transferencia,57.0,Carlos
+V0819,2026/06/28,Natalia Jiménez, Medellín,Escritorio,Oficina,1,580000,5%,Transferencia,34.0,Felipe
+V0345,18/02/2026,Valentina Rodríguez, Pereira,Teclado, Tecnologia ,3,120000,15%,Daviplata,24.0,Carlos
+V0507,2026/06/12,Camila Torres,Cartago,Tablet,Tecnología,2,1100000,0%,Nequi,27.0,Diana
+V0164,2026-06-27,Mateo Díaz,medellin,Silla ergonómica, Oficina ,6,720000,5%,Daviplata,46.0,Felipe
+V0781,26/04/2026,Paula Sánchez,Manizales,Celular,tecnologia,3,1800000,0.15,Efectivo,21.0,Diana
+V0534,04-07-2026,Laura Gómez,armenia,Teclado, Tecnologia ,2,120000,5%,Efectivo,58.0,Luisa
+V0681,07/06/26,Juliana Morales,Pereira,Mouse,tecnologia,3,45000,10%,Tarjeta,200.0,Carlos
+V0732,15/06/2026,Laura Gómez,Dosquebradas,Mochila,Accesorios,5,$140.000,0,Nequi,27.0,Diana
+V1171,09-07-2026,Mateo Díaz,Pereira ,Mochila,Accesorios,5,140000,10%,Transferencia,69.0,Luisa
+V0448,2026-01-24,Luisa Fernández, Medellín,Celular,Tecnología,2,1800000,10%,Efectivo,60.0,Luisa
+V0406,2026-04-22,Camila Torres,armenia,Escritorio,oficina,3,580000,15%,Transferencia,19.0,María
+V0245,2026-07-01,Valentina Rodríguez,Manizales,Cuaderno,PAPELERÍA,4,12000,20%,Transferencia,19.0,María
+V0429,2026/07/27,Sebastián Rojas,dosquebradas,Silla ergonómica,Oficina,5,720000,15%,Efectivo,47.0,Luisa
+V0815,2026/05/14,Pedro Ruiz,manizales,Mochila,Accesorios,1,140000,15%,Nequi,19.0,Andrés
+V0136,17/07/26,Alejandro Ortiz, Medellín,Escritorio, Oficina ,6,580000,10%,Tarjeta,44.0,Andrés
+V0328,02/05/2026,Alejandro Ortiz,cali,Impresora,Tecnología,2,$650.000,0.05,Efectivo,18.0,Luisa
+V0746,09-05-2026,Laura Gómez,armenia,Celular,tecnologia,1,1800000,20%,Nequi,49.0,María
+V0651,2026-01-25,Andrés Martínez,MEDELLÍN,Laptop, Tecnologia ,2,2500000,0.2,Efectivo,62.0,Carlos
+V1139,2026-06-14,Sofía Ramírez, Medellín,Silla ergonómica,Oficina,6,720000,0%,Tarjeta,47.0,Diana
+V0920,,Natalia Jiménez,Pereira ,Mochila,ACCESORIOS,4,140000,15%,Efectivo,46.0,Diana
+V1215,2026/05/01,,Manizales,Cuaderno,PAPELERÍA,1,12000,20%,Transferencia,31.0,Luisa
+V0399,08-05-2026,Daniel Moreno, Medellín,Maletín,ACCESORIOS,2,190000,15%,Tarjeta,50.0,Diana
+V0332,32/01/2026,Gabriela Muñoz,Bogotá,Laptop,Tecnología,4,2500000,20%,Nequi,38.0,Diana
+V0159,22-01-2026,Sofía Ramírez,BOGOTA,Maletín,Accesorios,1,190000,5%,Tarjeta,40.0,Carlos
+V0141,16/04/2026,Valentina Rodríguez,Armenia,Celular, Tecnologia ,1,1800000,20%,Daviplata,55.0,María
+V0260,2026/03/05,Mateo Díaz,bogotá,Celular,Tecnología ,2,1800000,15%,Tarjeta,48.0,Andrés
+V0340,31/01/2026,Gabriela Muñoz,manizales,Bolígrafo,Papelería,6,3500,5%,Transferencia,53.0,Andrés
+V0995,13/01/2026,Diego Restrepo,cartago,Bolígrafo,papeleria,1,3500,0.15,Daviplata,150.0,María
+V0702,2026/02/15,Pedro Ruiz,armenia,Bolígrafo,papeleria,2,3500,0%,Tarjeta,51.0,Andrés
+V1106,2026/06/24,Sebastián Rojas,armenia,Tablet, Tecnologia ,-1,1100000,20%,,45.0,Felipe
+V0425,01/05/2026,Sofía Ramírez,CARTAGO,Agenda,PAPELERÍA,5,25000,0%,Efectivo,69.0,Felipe
+V0945,2026/06/05,Nicolás Quintero, Medellín,Impresora, Tecnologia ,3,650000,5%,Transferencia,62.0,Felipe
+V0066,27/04/26,Sofía Ramírez,Cali,Mouse, Tecnologia ,3,45000,10%,Transferencia,32.0,Diana
+V0414,04-04-2026,Pedro Ruiz,Armenia,Impresora, Tecnologia ,6,650000,0.2,Tarjeta,42.0,Felipe
+V0779,09/05/2026,Valentina Rodríguez,Dosquebradas,Audífonos,tecnologia,3,180000,0.1,Daviplata,31.0,Diana
+V1108,03/02/2026,Juan López, Pereira,Bolígrafo,papeleria,6,3500,5%,,58.0,Carlos
+V0097,2026/04/06,Camila Torres,PEREIRA,Tablet,Tecnología ,3,$1.100.000,0%,Transferencia,,Diana
+V0310,2026/05/10,Sebastián Rojas,DOSQUEBRADAS,Tablet,TECNOLOGÍA,3,1100000,0.05,Daviplata,53.0,María
+V1079,16/05/26,Luisa Fernández,armenia,Celular, Tecnologia ,3,1800000,15%,Nequi,200.0,Felipe
+V0627,07-06-2026,Sofía Ramírez, Medellín,Monitor,tecnologia,6,850000,15%,Tarjeta,58.0,Diana
+V0157,2026/01/22,Sebastián Rojas,Bogotá,Maletín,Accesorios,1,190000,5%,Transferencia,59.0,María
+V0725,2026-07-30,,Medellín,Audífonos,tecnologia,4,180000,0.2,Transferencia,53.0,María
+V0610,10/06/26,Manuela Cárdenas,armenia,Maletín,accesorios,1,190000,0.05,Transferencia,28.0,Andrés
+V1133,2026/02/17,Camila Torres, Bogotá ,Mochila,ACCESORIOS,4,$140.000,,Transferencia,66.0,Felipe
+V0504,2026/01/02,Juan López,pereira,Teclado,tecnologia,3,$120.000,0%,Transferencia,36.0,María
+V1064,2026-06-27,Valentina Rodríguez,PEREIRA,Monitor,TECNOLOGÍA,6,850000,10%,Efectivo,21.0,Luisa
+V1051,2026-03-20,Sofía Ramírez,Armenia,Bolígrafo,papeleria,3,3500,5%,Tarjeta,59.0,Andrés
+V0381,2026-03-11,Manuela Cárdenas,manizales,Cuaderno, Papelería,5,12000,15%,Tarjeta,29.0,Felipe
+V0934,2026/01/07,Carlos Vargas,Pereira ,Laptop,Tecnología ,5,2500000,5%,Tarjeta,57.0,Luisa
+V0536,2026-04-27,Luisa Fernández,armenia,Audífonos, Tecnologia ,3,180000,15%,Nequi,30.0,Luisa
+V0283,04/05/26,Mariana Castro,Dosquebradas,Mochila,accesorios,3,140000,20%,Tarjeta,35.0,Felipe
+V1218,06-02-2026,Paula Sánchez,Manizales,Agenda, Papelería,5,25000,0.1,Transferencia,59.0,María
+V0410,2026-06-26,Santiago Hernández,medellin,Audífonos,tecnologia,3,180000,0.05,Transferencia,39.0,María
+V1055,2026-04-07,Diego Restrepo, Medellín,Laptop, Tecnologia ,6,,0%,Daviplata,31.0,Diana
+V1069,27/05/26,Pedro Ruiz,MEDELLÍN,Audífonos,tecnologia,2,180000,15%,Tarjeta,59.0,Carlos
+V0585,19/03/26,Carlos Vargas,armenia,Celular,Tecnología,6,1800000,15%,Nequi,30.0,Carlos
+V0574,18/03/26,Juan López,CARTAGO,Audífonos, Tecnologia ,4,$180.000,10%,Tarjeta,43.0,Andrés
+V0926,2026-04-19,Paula Sánchez,ARMENIA,Impresora,tecnologia,2,99999999,0.05,Efectivo,35.0,Felipe
+V0179,2026/06/10,Laura Gómez,cali,Audífonos,Tecnología ,6,180000,20%,Transferencia,52.0,Luisa
+V0994,2026-06-10,Felipe Arias,medellin,Laptop,Tecnología,4,2500000,0%,Tarjeta,47.0,Andrés
+V0968,2026-04-10,Gabriela Muñoz,dosquebradas,Cuaderno, Papelería,2,12000,20%,Tarjeta,55.0,Carlos
+V0287,08/05/2026,Juan López,CALI,Tablet, Tecnologia ,2,1100000,20%,Tarjeta,54.0,Luisa
+V0391,2026/04/20,Juan López, Bogotá ,Audífonos,TECNOLOGÍA,3,180000,20%,Nequi,39.0,Felipe
+V0865,2026/01/23, Sebastián Rojas ,ARMENIA,Cuaderno, Papelería,3,12000,20%,Transferencia,22.0,Luisa
+V0089,16/02/26, Pedro Ruiz ,PEREIRA,Audífonos,Tecnología ,2,180000,10%,Efectivo,22.0,Felipe
+V0808,18-03-2026,Camila Torres, Medellín,Agenda,papeleria,1,,0,Efectivo,57.0,Luisa
+V1006,16/05/2026,Felipe Arias,Medellín,Tablet,tecnologia,4,1100000,10%,Nequi,28.0,Andrés
+V0900,21-03-2026,Laura Gómez, Medellín,Celular,TECNOLOGÍA,5,1800000,15%,Daviplata,61.0,Luisa
+V0491,19/02/26,Manuela Cárdenas,MANIZALES,Celular,tecnologia,4,$1.800.000,0%,Efectivo,63.0,Luisa
+V1043,25-06-2026,Luisa Fernández,,Bolígrafo,PAPELERÍA,3,3500,0%,Tarjeta,43.0,Felipe
+V1128,10-07-2026,Sebastián Rojas,Manizales,Celular,Tecnología,5,$1.800.000,15%,Tarjeta,62.0,Diana
+V0291,06-07-2026,Diego Restrepo,Pereira,Teclado, Tecnologia ,2,120000,10%,Daviplata,24.0,Carlos
+V0286,26-04-2026,Valentina Rodríguez,medellin,Audífonos, Tecnologia ,2,180000,,Tarjeta,35.0,María
+V1208,16/05/26,Diego Restrepo,ARMENIA,Teclado, Tecnologia ,2,120000,0.15,Transferencia,38.0,Andrés
+V1113,2026/05/31,Luisa Fernández,MEDELLÍN,Agenda,papeleria,6,25000,15%,Tarjeta,70.0,Diana
+V0267,03/05/26,Juan López,Medellín,Cuaderno,papeleria,4,12000,5%,Transferencia,26.0,María
+V0060,02-04-2026,Felipe Arias, Cali ,Audífonos,Tecnología ,3,180000,0.15,Efectivo,28.0,María
+V1204,2026/01/18,Mateo Díaz,Pereira,Escritorio,Oficina,3,580000,0,Efectivo,54.0,Luisa
+V0372,19-01-2026,Mariana Castro,MEDELLÍN,Laptop, Tecnologia ,1,2500000,20%,Daviplata,59.0,Carlos
+V0788,2026/02/10,,CARTAGO,Silla ergonómica,oficina,5,720000,0%,Transferencia,22.0,Carlos
+V0756,2026/01/05,Diego Restrepo,dosquebradas,Monitor,Tecnología ,6,850000,10%,Tarjeta,47.0,Andrés
+V0366,16/05/26,Manuela Cárdenas,armenia,Teclado,Tecnología ,4,120000,0%,Transferencia,51.0,Andrés
+V0715,2026-02-03,Alejandro Ortiz,Medellín,Tablet,Tecnología ,6,$1.100.000,10%,Nequi,63.0,María
+V1189,01-07-2026,Santiago Hernández,Armenia,Celular,TECNOLOGÍA,2,1800000,20%,Daviplata,29.0,Andrés
+V0630,2026-05-18,Pedro Ruiz,CARTAGO,Monitor,Tecnología,2,850000,0.15,Tarjeta,58.0,María
+V1145,2026-07-24, Mateo Díaz ,armenia,Tablet,Tecnología ,6,1100000,10%,Transferencia,46.0,Andrés
+V0896,2026-01-19,Ana Pérez,manizales,Maletín,accesorios,6,190000,10%,Efectivo,24.0,Diana
+V0678,29/07/26,Gabriela Muñoz,PEREIRA,Silla ergonómica,Oficina,6,720000,10%,Nequi,22.0,Felipe
+V0986,2026-07-08,Luisa Fernández,medellin,Monitor,tecnologia,6,850000,0.2,Efectivo,55.0,Carlos
+V0416,2026-04-20,Natalia Jiménez,CARTAGO,Mochila,Accesorios,2,140000,0%,Tarjeta,18.0,María
+V0901,2026/05/18,Felipe Arias,armenia,Bolígrafo,Papelería,6,3500,0%,tarjeta,46.0,Carlos
+V0084,2026-01-18,Carlos Vargas,Manizales,Impresora,Tecnología,4,650000,15%,Daviplata,22.0,Felipe
+V0130,16/01/26,Mateo Díaz,Bogota,Mouse, Tecnologia ,5,45000,0.2,Tarjeta,46.0,Luisa
+V0753,07/02/2026,Alejandro Ortiz,MANIZALES,Laptop,Tecnología,5,2500000,0,Nequi,65.0,Carlos
+V1237,2026/05/17,Luisa Fernández,BOGOTA,Escritorio,oficina,2,580000,5%,Nequi,29.0,Felipe
+V1178,2026/04/05,,Armenia,Audífonos,TECNOLOGÍA,4,180000,15%,Efectivo,47.0,Luisa
+V0629,17-07-2026,Manuela Cárdenas,,Cuaderno,papeleria,5,12000,5%,Efectivo,42.0,Andrés
+V0261,05/02/26,Juliana Morales,DOSQUEBRADAS,Mochila,accesorios,5,140000,5%,Tarjeta,19.0,Felipe
+V0597,2026/01/31,Felipe Arias,manizales,Celular,Tecnología,3,1800000,0%,Transferencia,56.0,Luisa
+V0611,09/06/26,,Cartago,Celular,Tecnología,4,1800000,0%,Efectivo,57.0,Andrés
+V0992,2026-04-30, Carlos Vargas ,MANIZALES,Tablet,tecnologia,1,$1.100.000,0%,Nequi,33.0,Luisa
+V0623,2026-06-02,Laura Gómez,Bogotá,Silla ergonómica,Oficina,2,720000,20%,Daviplata,58.0,Luisa
+V0139,19/01/2026,Valentina Rodríguez, Bogotá ,Mochila,accesorios,2,140000,0.2,Daviplata,39.0,Diana
+V0293,02/05/26,,manizales,Mochila, Accesorios ,4,140000,0.2,Daviplata,52.0,María
+V1038,2026-04-22,Manuela Cárdenas,ARMENIA,Maletín,Accesorios,5,190000,15%,Nequi,54.0,Diana
+V0440,10/06/2026,Laura Gómez,Armenia,Escritorio,Oficina,2,580000,0%,Tarjeta,43.0,Diana
+V0142,2026/05/21,Andrés Martínez, Medellín,Impresora,tecnologia,6,650000,10%,Daviplata,49.0,Diana
+V0803,10/06/26,Sofía Ramírez,Armenia,Monitor,TECNOLOGÍA,5,850000,15%,Transferencia,25.0,Luisa
+V0483,2026/05/19,Andrés Martínez,Pereira,Mouse,TECNOLOGÍA,2,45000,10%,Nequi,44.0,Carlos
+V0468,17-04-2026,Luisa Fernández,Armenia,Bolígrafo, Papelería,3,3500,5%,Efectivo,69.0,Carlos
+V0140,12-04-2026,Paula Sánchez, Bogotá ,Monitor,TECNOLOGÍA,2,850000,20%,Efectivo,37.0,Andrés
+V0845,28-07-2026,Juliana Morales,dosquebradas,Laptop,Tecnología ,4,2500000,20%,Nequi,22.0,Luisa
+V0946,17/03/2026,Gabriela Muñoz,Medellín,Audífonos,Tecnología,6,180000,0.15,Tarjeta,60.0,Felipe
+V0225,14/04/26,Valentina Rodríguez,Pereira,Tablet,tecnologia,4,$1.100.000,15%,Efectivo,41.0,Diana
+V0618,18/04/2026,Valentina Rodríguez,armenia,Impresora, Tecnologia ,5,650000,5%,Nequi,45.0,Felipe
+V0275,13-04-2026,Felipe Arias,Dosquebradas,Silla ergonómica,Oficina,3,720000,20%,Transferencia,-5.0,María
+V0324,2026/02/05,Felipe Arias,armenia,Cuaderno,papeleria,1,12000,15%,Efectivo,44.0,Diana
+V0351,2026-03-31,Sofía Ramírez,BOGOTA,Mouse,Tecnología ,4,,15%,Nequi,50.0,Luisa
+V0722,17/03/2026,Camila Torres,MANIZALES,Laptop,tecnologia,1,2500000,15%,Daviplata,38.0,Diana
+V0482,2026-05-29,Luisa Fernández,armenia,Mochila,ACCESORIOS,4,140000,0%,Tarjeta,19.0,Carlos
+V0412,2026-03-19,Camila Torres,MANIZALES,Mouse,TECNOLOGÍA,6,45000,0%,Transferencia,30.0,María
+V1115,28-03-2026,Daniel Moreno,CARTAGO,Impresora,Tecnología ,6,650000,,Tarjeta,30.0,Luisa
+V0567,26/02/26,Carlos Vargas,MANIZALES,Tablet,TECNOLOGÍA,4,1100000,0,Daviplata,55.0,Carlos
+V1093,15-02-2026,Juliana Morales,Dosquebradas,Monitor,,4,850000,10%,Tarjeta,64.0,Felipe
+V0353,20-01-2026,Laura Gómez,Bogota,Cuaderno, Papelería,6,12000,20%,Transferencia,24.0,Luisa
+V1167,,Camila Torres,pereira,Mochila,Accesorios,0,140000,0%,Transferencia,63.0,Diana
+V0681,07/06/26,Juliana Morales,Pereira,Mouse,tecnologia,3,45000,10%,Tarjeta,200.0,Carlos
+V0847,11/02/2026,Manuela Cárdenas,Armenia,Maletín, Accesorios ,3,190000,0%,Nequi,52.0,Luisa
+V0553,2026-02-07,Felipe Arias,armenia,Celular,Tecnología ,3,1800000,5%,Tarjeta,60.0,Andrés
+V0645,2026/02/24,Daniel Moreno,CARTAGO,Laptop,tecnologia,1,2500000,5%,Daviplata,70.0,Carlos
+V0530,2026-06-05,Daniel Moreno, Cali ,Laptop,tecnologia,5,2500000,15%,Daviplata,18.0,Carlos
+V0580,2026-02-17,Gabriela Muñoz,medellin,Silla ergonómica,oficina,2,720000,10%,Efectivo,70.0,Carlos
+V0543,2026-01-22,Nicolás Quintero,Pereira,Audífonos,tecnologia,-1,180000,0%,Daviplata,61.0,Carlos
+V0661,2026/01/22,Luisa Fernández,armenia,Audífonos,TECNOLOGÍA,3,180000,0.2,Nequi,45.0,Luisa
+V0322,2026-07-01,Santiago Hernández,manizales,Silla ergonómica, Oficina ,1,720000,10%,Nequi,47.0,Diana
+V0821,25/02/26, Camila Torres ,Dosquebradas,Bolígrafo, Papelería,2,3500,0%,Daviplata,46.0,Luisa
+V0711,24/05/2026,Sofía Ramírez,PEREIRA,Laptop, Tecnologia ,3,2500000,10%,Nequi,34.0,María
+V0948,09-01-2026,Paula Sánchez,DOSQUEBRADAS,Cuaderno,PAPELERÍA,3,12000,0.05,Nequi,69.0,María
+V0382,19/02/2026,Mariana Castro,pereira,Monitor,Tecnología,1,850000,0.2,Efectivo,50.0,Diana
+V0040,,Nicolás Quintero,dosquebradas,Mochila,Accesorios,5,140000,10%,Nequi,46.0,Andrés
+V0031,2026/07/04,Luisa Fernández,CARTAGO,Mochila,accesorios,5,140000,15%,Transferencia,48.0,Luisa
+V0243,,Daniel Moreno,ARMENIA,Maletín,accesorios,2,190000,,Efectivo,26.0,María
+V0858,05/01/26,Sebastián Rojas,DOSQUEBRADAS,Escritorio,OFICINA,3,580000,15%,Efectivo,35.0,Andrés
+V0137,21/06/2026,Daniel Moreno, Medellín,Cuaderno,Papelería,4,12000,20%,Daviplata,66.0,Luisa
+V0311,2026/05/20,Felipe Arias,Pereira ,Escritorio,oficina,0,580000,0.15,Transferencia,46.0,Carlos
+V1063,26/01/26,Mateo Díaz,CARTAGO,Bolígrafo,,2,3500,10%,Transferencia,29.0,Diana
+V1228,2026-07-10,Manuela Cárdenas,cali,Bolígrafo,PAPELERÍA,5,3500,0%,Tarjeta,21.0,Felipe
+V1173,15/03/2026,Juliana Morales,dosquebradas,Escritorio,Oficina,3,580000,0.1,Transferencia,61.0,Diana
+V1125,2026-01-30,Ana Pérez,BOGOTA,Tablet,tecnologia,1,1100000,0%,Transferencia,69.0,Luisa
+V1051,2026-03-20,Sofía Ramírez,Armenia,Bolígrafo,papeleria,3,3500,5%,Tarjeta,59.0,Andrés
+V0463,08/07/2026,Valentina Rodríguez, Medellín,Cuaderno,Papelería,3,12000,15%,Nequi,65.0,Luisa
+V0004,2026-03-01,Felipe Arias,medellin,Mouse,tecnologia,1,45000,15%,Nequi,31.0,Luisa
+V0112,2026/04/26,Juliana Morales,Armenia,Audífonos,tecnologia,2,180000,5%,Nequi,33.0,Felipe
+V0674,27/07/26,Mateo Díaz,cali,Laptop,Tecnología ,2,2500000,0%,Nequi,29.0,Felipe
+V1100,2026-07-17,Natalia Jiménez,CARTAGO,Mouse,tecnologia,5,45000,5%,Tarjeta,20.0,Andrés
+V0701,2026/06/01,Juan López,dosquebradas,Escritorio,OFICINA,3,580000,15%,Nequi,67.0,Andrés
+V0925,2026-02-08,Felipe Arias,Pereira ,Impresora,tecnologia,3,650000,5%,Transferencia,37.0,Felipe
+V0837,16-03-2026,Juan López,medellin,Mouse,Tecnología ,1,45000,5%,Efectivo,42.0,Felipe
+V0377,01/03/2026,Ana Pérez,Medellín,Escritorio,OFICINA,1,580000,0,Tarjeta,57.0,Luisa
+V0544,2026/06/04,Santiago Hernández,ARMENIA,Tablet, Tecnologia ,5,,10%,Nequi,41.0,Felipe
+V0439,08-07-2026,Juliana Morales,Cali,Mochila,Accesorios,2,140000,10%,Daviplata,23.0,Diana
+V0315,23/03/26,Juliana Morales,bogotá,Laptop, Tecnologia ,5,2500000,20%,Transferencia,64.0,Luisa
+V1033,2026-06-18,Luisa Fernández,,Cuaderno,papeleria,3,12000,0%,Transferencia,34.0,Felipe
+V0320,18-05-2026,Juliana Morales,PEREIRA,Agenda,papeleria,2,25000,5%,Tarjeta,27.0,Andrés
+V1040,12/02/26,Natalia Jiménez,cali,Mouse,TECNOLOGÍA,3,45000,20%,Daviplata,29.0,Andrés
+V0967,45/05/2026,Mateo Díaz,Cali,Agenda, Papelería,6,25000,0.2,Efectivo,54.0,Felipe
+V0006,2026/06/14,Santiago Hernández, Medellín,Maletín,Accesorios,4,190000,5%,Tarjeta,55.0,Carlos
+V0101,17/03/26,Sebastián Rojas,MANIZALES,Cuaderno,Papelería,3,12000,15%,Tarjeta,20.0,Diana
+V0714,06/01/2026,Juan López,MANIZALES,Mochila,Accesorios,5,140000,0%,Nequi,19.0,Diana
+V0571,28/05/2026,Mateo Díaz,CARTAGO,Teclado,Tecnología ,1,120000,0,Tarjeta,45.0,Luisa
+V0549,13/02/2026,Alejandro Ortiz,MANIZALES,Monitor, Tecnologia ,6,850000,0,Tarjeta,38.0,Diana
+V0947,31-01-2026,Sebastián Rojas,Dosquebradas,Maletín,,2,190000,0%,Efectivo,39.0,Luisa
+V0913,21/07/2026,Pedro Ruiz,MANIZALES,Maletín,accesorios,2,190000,10%,Efectivo,31.0,Felipe
+V0712,2026-02-12,Natalia Jiménez,BOGOTA,Escritorio,OFICINA,-3,580000,5%,Daviplata,,Carlos
+V0498,25-07-2026,Pedro Ruiz,Dosquebradas,Maletín,Accesorios,4,190000,0%,Nequi,53.0,Luisa
+V1171,09-07-2026,Mateo Díaz,Pereira ,Mochila,Accesorios,5,140000,10%,Transferencia,69.0,Luisa
+V0228,13-06-2026,Natalia Jiménez,Bogota,Maletín,ACCESORIOS,3,190000,20%,Nequi,19.0,Diana
+V0431,2026-01-10,Alejandro Ortiz,Cartago,Maletín,Accesorios,2,$190.000,0.05,Tarjeta,35.0,Andrés
+V0590,13-03-2026,Manuela Cárdenas,MANIZALES,Agenda,papeleria,2,25000,0.1,Nequi,67.0,María
+V0716,05-06-2026,Natalia Jiménez,manizales,Mochila,Accesorios,3,140000,10%,Efectivo,24.0,Luisa
+V0667,10/07/26,Mateo Díaz,ARMENIA,Mochila,ACCESORIOS,6,140000,5%,Nequi,36.0,Luisa
+V0067,30/01/26,Sebastián Rojas, Medellín,Tablet,Tecnología,2,1100000,0%,Nequi,52.0,Felipe
+V1104,19-04-2026,Gabriela Muñoz,Medellín,Mouse,Tecnología ,6,45000,0%,Daviplata,43.0,Andrés
+V0068,2026/03/13,Juan López,dosquebradas,Tablet,tecnologia,1,1100000,10%,Tarjeta,61.0,Luisa
+V0472,2026/02/24,Santiago Hernández,MANIZALES,Audífonos, Tecnologia ,1,180000,20%,Daviplata,19.0,Carlos
+V0212,2026/05/27,Gabriela Muñoz,Cali,Impresora, Tecnologia ,5,650000,15%,Transferencia,62.0,Andrés
+V0013,06-07-2026,Andrés Martínez,manizales,Mochila,accesorios,1,140000,0%,Tarjeta,30.0,Luisa
+V0923,2026/04/03,Mateo Díaz,medellin,Celular,tecnologia,4,1800000,0%,Daviplata,34.0,Diana
+V0724,2026/01/02,Manuela Cárdenas,CALI,Mouse,Tecnología,3,45000,5%,Efectivo,57.0,Andrés
+V0300,2026-02-23,Mariana Castro,CARTAGO,Cuaderno,PAPELERÍA,4,12000,15%,Efectivo,20.0,Andrés
+V0809,10/02/26,Nicolás Quintero,medellin,Bolígrafo, Papelería,6,3500,15%,Efectivo,35.0,Diana
+V0853,25-07-2026,Gabriela Muñoz,MANIZALES,Mouse,tecnologia,5,45000,5%,Tarjeta,57.0,Diana
+V1144,2026/05/16,Daniel Moreno,CALI,Tablet,tecnologia,1,1100000,15%,Transferencia,46.0,María
+V1143,2026/01/12,Paula Sánchez,MANIZALES,Celular,tecnologia,2,1800000,10%,Transferencia,22.0,
+V0666,01/02/26,Pedro Ruiz,Dosquebradas,Maletín,Accesorios,3,190000,0.15,Efectivo,34.0,María
+V1210,04/06/26,Mariana Castro,dosquebradas,Maletín,Accesorios,5,190000,0.05,Daviplata,35.0,Diana
+V0443,2026-03-24,Sofía Ramírez, Cali ,Mochila,ACCESORIOS,6,140000,15%,Daviplata,34.0,Diana
+V1184,21/05/2026,Sebastián Rojas,cartago,Agenda,PAPELERÍA,4,25000,0%,Nequi,70.0,Carlos
+V0765,2026/01/02,Gabriela Muñoz,Bogota,Mouse,Tecnología ,6,45000,0%,Tarjeta,42.0,Luisa
+V1191,2026-06-27,Diego Restrepo,Cartago,Agenda,,2,25000,10%,Nequi,20.0,Felipe
+V0813,26-01-2026,Diego Restrepo,DOSQUEBRADAS,Laptop,Tecnología ,6,2500000,,Nequi,24.0,Carlos
+V0895,18/06/2026,Gabriela Muñoz,Pereira ,Silla ergonómica,Oficina,4,720000,0.05,Nequi,32.0,María
+V1103,04-02-2026,Gabriela Muñoz,PEREIRA,Escritorio,Oficina,6,$580.000,20%,Tarjeta,48.0,Luisa
+V0274,2026-05-24,Alejandro Ortiz, Cali ,Celular,tecnologia,5,1800000,15%,Tarjeta,65.0,María
+V0465,31/01/2026,Gabriela Muñoz,Bogotá,Monitor, Tecnologia ,5,850000,0.05,Nequi,67.0,Carlos
+V0363,20/01/2026,Nicolás Quintero,cartago,Silla ergonómica,oficina,3,720000,10%,Transferencia,25.0,Diana
+V0238,05/01/26,Diego Restrepo, Cali ,Cuaderno,PAPELERÍA,1,12000,15%,Transferencia,56.0,Carlos
+V1168,08/02/2026,Juan López,Medellín,Agenda, Papelería,2,25000,0.05,Transferencia,62.0,Carlos
+V0515,08/05/26,Ana Pérez,pereira,Laptop,tecnologia,6,2500000,10%,Transferencia,67.0,Felipe
+V0003,25/01/26,Carlos Vargas,Cali,Tablet,Tecnología,3,1100000,10%,Efectivo,42.0,Andrés
+V0007,2026-06-10,Nicolás Quintero,Bogota,Teclado,TECNOLOGÍA,2,120000,15%,Transferencia,34.0,Carlos
+V0371,28/07/26,Sebastián Rojas,Cali,Audífonos, Tecnologia ,3,180000,5%,tarjeta,29.0,Carlos
+V0312,2026-02-26,Paula Sánchez,Armenia,Audífonos,tecnologia,2,0,10%,Transferencia,54.0,Andrés
+V1095,28/03/26,Camila Torres,pereira,Silla ergonómica,oficina,1,720000,,Transferencia,70.0,Felipe
+V0915,28/07/26,Sebastián Rojas,CALI,Tablet,Tecnología,5,99999999,15%,Nequi,53.0,Diana
+V1161,20/01/2026,Santiago Hernández,pereira,Teclado,tecnologia,3,120000,15%,Nequi,46.0,Diana
+V0683,30/06/2026,Luisa Fernández,manizales,Impresora,Tecnología ,6,650000,10%,Daviplata,41.0,Carlos
+V0970,29/01/2026,Alejandro Ortiz,BOGOTA,Audífonos,TECNOLOGÍA,5,180000,0%,Nequi,24.0,Luisa
+V0216,2026/03/03,Alejandro Ortiz,BOGOTA,Laptop,Tecnología,3,2500000,15%,Nequi,40.0,Carlos
+V0965,2026-01-11,Mateo Díaz, Pereira,Bolígrafo,PAPELERÍA,3,3500,15%,Nequi,24.0,Felipe
+V0028,2026/06/17,Luisa Fernández,Armenia,Escritorio,oficina,3,580000,0.15,Transferencia,68.0,María
+V1230,11/02/26,Manuela Cárdenas,Dosquebradas,Teclado,tecnologia,1,120000,10%,Tarjeta,61.0,Diana
+V0971,13/05/2026,Mateo Díaz,cartago,Cuaderno, Papelería,6,12000,10%,Tarjeta,,Andrés
+V1094,18/04/26,Daniel Moreno,Medellín,Maletín, Accesorios ,6,,10%,Tarjeta,57.0,María
+V1030,,Diego Restrepo,armenia,Cuaderno,Papelería,4,12000,0.05,Transferencia,33.0,María
+V0546,2026-05-02,Alejandro Ortiz,ARMENIA,Cuaderno, Papelería,5,$12.000,15%,Efectivo,70.0,Felipe
+V0129,11/07/26,Laura Gómez,,Impresora,TECNOLOGÍA,5,650000,10%,Tarjeta,60.0,Felipe
+V0827,07-05-2026,Camila Torres,Armenia,Cuaderno,Papelería,6,12000,0%,Transferencia,61.0,Andrés
+V0917,2026/01/25,Sebastián Rojas,cali,Bolígrafo,papeleria,6,3500,15%,Daviplata,39.0,Felipe
+V0355,2026-03-23,Juliana Morales,Pereira ,Cuaderno, Papelería,3,12000,0.2,Efectivo,63.0,Andrés
+V1117,02/07/2026,Juan López,DOSQUEBRADAS,Celular,tecnologia,1,1800000,20%,Transferencia,33.0,Diana
+V1223,2026-03-11,Laura Gómez,CARTAGO,Monitor,tecnologia,6,850000,0.05,Efectivo,69.0,Diana
+V0257,27/05/26,Camila Torres,medellin,Laptop,tecnologia,5,2500000,15%,Daviplata,64.0,Andrés
+V0292,09/03/2026,Luisa Fernández,Medellín,Mouse,Tecnología,5,45000,5%,Transferencia,65.0,Andrés
+V0026,2026-07-04,Alejandro Ortiz,MANIZALES,Cuaderno,PAPELERÍA,6,$12.000,5%,Nequi,39.0,Andrés
+V0337,2026-04-27,Sebastián Rojas,BOGOTA,Teclado, Tecnologia ,6,$120.000,0.2,Efectivo,38.0,Carlos
+V1168,08/02/2026,Juan López,Medellín,Agenda, Papelería,2,25000,0.05,Transferencia,62.0,Carlos
+V0048,2026-06-29,Diego Restrepo,cali,Audífonos,TECNOLOGÍA,4,180000,0%,Efectivo,60.0,Carlos
+V0319,2026-07-06,Daniel Moreno,cartago,Bolígrafo,Papelería,1,3500,0%,Transferencia,70.0,María
+V0107,,Sebastián Rojas,Pereira,Mouse,Tecnología ,3,45000,0,Efectivo,67.0,Andrés
+V0950,12/05/26,Carlos Vargas,Armenia,Monitor,Tecnología,5,850000,15%,Nequi,150.0,Felipe
+V0056,18/06/2026,Gabriela Muñoz, Cali ,Escritorio,oficina,4,580000,0.05,Nequi,42.0,Carlos
+V0862,2026-02-20,Andrés Martínez,CALI,Mochila,accesorios,6,140000,15%,Daviplata,21.0,Felipe
+V0214,18/02/2026,Laura Gómez,MANIZALES,Mouse,Tecnología ,4,45000,5%,,41.0,María
+V0121,23/07/2026,Daniel Moreno,PEREIRA,Silla ergonómica,Oficina,6,720000,0.1,Transferencia,43.0,Luisa
+V0632,2026/04/26,Mateo Díaz,pereira,Cuaderno,PAPELERÍA,2,12000,5%,Tarjeta,20.0,María
+V0533,02/01/26,Valentina Rodríguez,Cali,Cuaderno, Papelería,1,12000,15%,Nequi,31.0,Andrés
+V0586,18/04/2026,Alejandro Ortiz,dosquebradas,Impresora,Tecnología ,5,650000,0.2,Daviplata,36.0,Carlos
+V0073,21-04-2026,Sofía Ramírez,cartago,Escritorio, Oficina ,1,580000,0%,Tarjeta,31.0,Andrés
+V0411,2026-02-03,Nicolás Quintero, Pereira,Monitor,Tecnología,1,850000,0.15,Transferencia,66.0,Carlos
+V0768,2026/04/24,Juliana Morales,ARMENIA,Agenda,PAPELERÍA,3,25000,0.15,Transferencia,27.0,Diana
+V0843,16/03/2026,Felipe Arias,MANIZALES,Teclado,tecnologia,5,120000,0%,Efectivo,19.0,Felipe
+V0568,13-01-2026,Mateo Díaz,MEDELLÍN,Maletín,Accesorios,2,190000,10%,Daviplata,68.0,Diana
+V0433,2026-06-03,Andrés Martínez,CALI,Monitor, Tecnologia ,1,850000,10%,Nequi,33.0,Andrés
+V0561,2026/07/29,Pedro Ruiz,pereira,Agenda,papeleria,-1,25000,0%,Efectivo,56.0,Carlos
+V1014,23/06/2026,Camila Torres,ARMENIA,Agenda,Papelería,6,25000,0.15,Transferencia,55.0,Carlos
+V0885,,Mateo Díaz,MANIZALES,Monitor,tecnologia,3,850000,5%,Tarjeta,43.0,Felipe
+V0621,2026-02-18,Carlos Vargas,Armenia,Agenda,PAPELERÍA,4,25000,20%,Transferencia,30.0,Felipe
+V0631,09-03-2026,,bogotá,Audífonos, Tecnologia ,0,180000,0%,Nequi,24.0,Andrés
+V0527,12-01-2026,Pedro Ruiz,cali,Teclado,Tecnología,4,120000,20%,Transferencia,31.0,Andrés
+V1076,2026-02-14,Luisa Fernández,Bogotá,Tablet,tecnologia,2,1100000,10%,Tarjeta,-5.0,Diana
+V0326,2026/01/31,Camila Torres,Cali,Agenda,papeleria,2,25000,10%,Efectivo,44.0,Carlos
+V1138,05/05/26,Carlos Vargas, Pereira,Mouse,Tecnología,5,45000,20%,,26.0,Andrés
+V0395,2026-02-22,Daniel Moreno,Cali,Mochila,Accesorios,5,140000,0%,Efectivo,40.0,Felipe
+V0317,27/05/26,Laura Gómez, Bogotá ,Cuaderno, Papelería,2,12000,20%,Transferencia,67.0,Andrés
+V0694,22-03-2026,Manuela Cárdenas,Bogotá,Bolígrafo,papeleria,5,3500,20%,Daviplata,55.0,Felipe
+V0937,2026-02-11,Nicolás Quintero,,Mouse,Tecnología ,1,45000,0.1,Transferencia,28.0,Luisa
+V0466,20/07/2026,Carlos Vargas,MEDELLÍN,Mouse, Tecnologia ,5,45000,20%,Daviplata,24.0,Luisa
+V0600,17/05/2026,Gabriela Muñoz,bogotá,Silla ergonómica,,4,720000,20%,Tarjeta,51.0,
+V0744,18-07-2026,Paula Sánchez,Cali,Silla ergonómica, Oficina ,3,720000,0%,Efectivo,62.0,Andrés
+V1090,14/02/2026,Valentina Rodríguez,DOSQUEBRADAS,Silla ergonómica,Oficina,1,$720.000,0%,Transferencia,48.0,Felipe
+V0573,2026/07/15,Pedro Ruiz,ARMENIA,Maletín,accesorios,5,190000,5%,Daviplata,21.0,Carlos
+V0615,10-04-2026,Sebastián Rojas, Cali ,Monitor,TECNOLOGÍA,4,850000,0,Tarjeta,24.0,Andrés
+V0061,13-06-2026,Carlos Vargas,MANIZALES,Impresora, Tecnologia ,3,$650.000,0.15,Transferencia,36.0,Luisa
+V0434,31/05/2026,Carlos Vargas,CARTAGO,Mochila,ACCESORIOS,1,140000,15%,Transferencia,48.0,Carlos
+V0812,20/06/26,Sofía Ramírez,,Mochila,ACCESORIOS,4,140000,15%,Transferencia,64.0,Carlos
+V0093,2026/01/14,Camila Torres,Medellín,Tablet,TECNOLOGÍA,4,1100000,20%,Nequi,38.0,Diana
+V0972,2026/04/21,Camila Torres,manizales,Laptop,tecnologia,4,2500000,5%,Nequi,36.0,Carlos
+V1159,26/02/26,,cartago,Impresora,Tecnología ,2,650000,0.2,Efectivo,47.0,Carlos
+V0352,16-04-2026,Juliana Morales,ARMENIA,Escritorio,oficina,2,580000,20%,Efectivo,31.0,Diana
+V0195,2026/03/11,Juliana Morales,cali,Tablet,Tecnología,2,1100000,0,Efectivo,21.0,Diana
+V0281,2026/05/18,Carlos Vargas,CALI,Silla ergonómica,oficina,1,720000,0.1,Efectivo,22.0,Luisa
+V1098,02-05-2026,Sofía Ramírez,pereira,Monitor,TECNOLOGÍA,6,850000,15%,Transferencia,34.0,Andrés
+V0889,2026/04/21,Gabriela Muñoz,MANIZALES,Impresora, Tecnologia ,4,$650.000,0.15,Efectivo,60.0,Andrés
+V0360,2026-04-05,Luisa Fernández,bogotá,Agenda, Papelería,1,25000,20%,Tarjeta,66.0,Diana
+V1233,2026/06/18,Andrés Martínez,MEDELLÍN,Cuaderno,papeleria,2,12000,,Tarjeta,29.0,Luisa
+V0616,04/06/2026,Sofía Ramírez,Pereira ,Celular, Tecnologia ,4,1800000,5%,Tarjeta,27.0,Andrés
+V0942,06/06/2026,Diego Restrepo,dosquebradas,Monitor,Tecnología,2,850000,10%,Efectivo,23.0,Carlos
+V0592,26/05/2026,Laura Gómez,Medellín,Monitor,,4,$850.000,5%,Efectivo,29.0,Luisa
+V0459,19/04/2026,Valentina Rodríguez,MANIZALES,Impresora, Tecnologia ,1,650000,0,Tarjeta,48.0,Andrés
+V0559,12/03/26,,cartago,Tablet,Tecnología,6,1100000,15%,Daviplata,60.0,María
+V0183,12-01-2026,Santiago Hernández,Armenia,Monitor, Tecnologia ,4,850000,0.1,Transferencia,53.0,Andrés
+V0111,2026/04/29,Luisa Fernández,BOGOTA,Impresora,tecnologia,2,650000,10%,Nequi,40.0,Carlos
+V1032,19/07/2026,Manuela Cárdenas,armenia,Silla ergonómica,oficina,2,$720.000,0%,Tarjeta,23.0,Luisa
+V1172,05/04/26,Luisa Fernández,dosquebradas,Silla ergonómica,OFICINA,4,720000,15%,Tarjeta,62.0,Andrés
+V0205,2026-05-22,Carlos Vargas, Pereira,Agenda,Papelería,6,25000,20%,Transferencia,54.0,Diana
+V0598,05-04-2026,Laura Gómez,Bogota,Cuaderno, Papelería,3,12000,0,Transferencia,27.0,María
+V0912,12-05-2026,,MANIZALES,Escritorio, Oficina ,2,580000,10%,Efectivo,37.0,Felipe
+V0888,05/07/2026,Valentina Rodríguez, Bogotá ,Mouse, Tecnologia ,2,45000,15%,Tarjeta,62.0,Carlos
+V1126,24/01/26,Luisa Fernández, Pereira,Bolígrafo,PAPELERÍA,3,3500,0,Nequi,59.0,Felipe
+V0910,2026/01/17,Daniel Moreno,armenia,Tablet, Tecnologia ,5,1100000,0%,Daviplata,35.0,Luisa
+V0603,06/02/26,Gabriela Muñoz,manizales,Celular, Tecnologia ,1,1800000,5%,Transferencia,29.0,
+V0184,2026-01-20,Paula Sánchez,manizales,Mochila,ACCESORIOS,5,140000,10%,Tarjeta,51.0,Felipe
+V0138,23/05/2026,Juan López,manizales,Tablet,Tecnología ,5,1100000,5%,Daviplata,46.0,Carlos
+V0709,03-06-2026,Sofía Ramírez, Cali ,Tablet,Tecnología,3,1100000,0.2,Efectivo,66.0,Luisa
+V0081,28/04/2026,Felipe Arias,CARTAGO,Laptop,TECNOLOGÍA,1,2500000,,Tarjeta,25.0,Luisa
+V0894,2026/01/11,Mateo Díaz,BOGOTA,Silla ergonómica,OFICINA,5,720000,0,Daviplata,65.0,Luisa
+V0537,06/04/2026,Sebastián Rojas,MANIZALES,Agenda,PAPELERÍA,4,25000,0.15,Daviplata,,Diana
+V0481,08/06/26,Andrés Martínez,PEREIRA,Monitor,tecnologia,5,850000,0.2,Efectivo,50.0,Diana
+V0166,17-07-2026,Diego Restrepo, Cali ,Agenda,Papelería,4,25000,20%,Efectivo,41.0,Andrés
+V0249,26-03-2026,Juliana Morales,Armenia,Laptop,TECNOLOGÍA,4,2500000,0.05,Daviplata,58.0,María
+V0308,17/04/26,Pedro Ruiz,bogotá,Agenda, Papelería,3,25000,0%,Efectivo,37.0,María
+V0779,09/05/2026,Valentina Rodríguez,Dosquebradas,Audífonos,tecnologia,3,180000,0.1,Daviplata,31.0,Diana
+V0542,04/02/2026,Mariana Castro,dosquebradas,Agenda,Papelería,2,25000,0.15,Efectivo,29.0,Carlos
+V0335,07/05/26,Valentina Rodríguez,pereira,Maletín,accesorios,2,190000,5%,Tarjeta,150.0,Diana
+V0098,2026/07/19,Valentina Rodríguez,pereira,Teclado,Tecnología,6,120000,15%,Transferencia,63.0,Andrés
+V0552,18/05/26,Santiago Hernández, Bogotá ,Escritorio,Oficina,2,580000,15%,Daviplata,68.0,Luisa
+V1242,14/07/2026,Pedro Ruiz,Pereira,Teclado,tecnologia,4,120000,20%,Nequi,24.0,Luisa
+V0908,2026/03/05,Natalia Jiménez,pereira,Teclado,TECNOLOGÍA,6,120000,15%,Nequi,21.0,Luisa
+V0932,2026-04-30,Carlos Vargas,cartago,Agenda, Papelería,3,25000,0.05,Tarjeta,58.0,Felipe
+V0775,14-07-2026,Laura Gómez,Cartago,Escritorio,Oficina,5,580000,15%,Daviplata,58.0,Felipe
+V0637,2026/06/18,Santiago Hernández, Bogotá ,Monitor,TECNOLOGÍA,3,850000,10%,Daviplata,63.0,María
+V1188,2026-02-28,Valentina Rodríguez,bogotá,Audífonos, Tecnologia ,5,180000,0,Daviplata,62.0,Andrés
+V0303,2026-07-21,Mateo Díaz,CARTAGO,Silla ergonómica,OFICINA,6,720000,10%,Daviplata,40.0,Diana
+V0210,22/04/26,Sofía Ramírez,MANIZALES,Cuaderno, Papelería,2,12000,0.05,Tarjeta,22.0,Diana
+V0389,22-01-2026,Nicolás Quintero,Manizales,Monitor, Tecnologia ,5,850000,0%,Daviplata,33.0,Diana
+V0236,23-06-2026,Mateo Díaz,Medellín,Cuaderno, Papelería,6,12000,15%,Transferencia,18.0,María
+V0916,2026-06-02,Mariana Castro,Bogota,Impresora,Tecnología ,1,650000,15%,Transferencia,,María
+V1120,25/02/26,Pedro Ruiz, Medellín,Escritorio,OFICINA,4,580000,0.2,Daviplata,64.0,Diana
+V0306,2026-06-06,Valentina Rodríguez, Bogotá ,Teclado,tecnologia,3,120000,10%,Tarjeta,,Carlos
+V0869,10-02-2026,Valentina Rodríguez,dosquebradas,Tablet,Tecnología,4,1100000,0%,Transferencia,56.0,Diana
+V1035,27/06/2026,Daniel Moreno,ARMENIA,Escritorio,Oficina,6,580000,5%,Tarjeta,62.0,Andrés
+V0250,2026/05/14,Valentina Rodríguez,CARTAGO,Teclado,Tecnología,1,120000,20%,Tarjeta,31.0,Diana
+V0856,24/07/26,Ana Pérez,cartago,Escritorio,oficina,4,580000,0%,Tarjeta,34.0,Diana
+V0839,03-06-2026,Laura Gómez,MEDELLÍN,Audífonos,tecnologia,1,180000,15%,Transferencia,22.0,Diana
+V0072,31/02/2026,Manuela Cárdenas,armenia,Mochila,ACCESORIOS,4,140000,0%,Nequi,56.0,Felipe
+V0095,13/01/26,Santiago Hernández,MEDELLÍN,Mouse, Tecnologia ,-3,45000,0.15,Tarjeta,,Felipe
+V0614,2026-03-09,Daniel Moreno,Dosquebradas,Impresora,Tecnología ,6,650000,0%,Nequi,70.0,Carlos
+V0034,26-02-2026,Camila Torres, Pereira,Maletín,Accesorios,4,190000,5%,Tarjeta,69.0,Diana
+V0866,15-07-2026,Sofía Ramírez,dosquebradas,Audífonos, Tecnologia ,4,180000,10%,Nequi,62.0,María
+V0449,2026-01-25,Paula Sánchez,cartago,Cuaderno,PAPELERÍA,3,12000,0%,Daviplata,24.0,Diana
+V0446,14-07-2026,Juan López,cali,Mochila,Accesorios,3,140000,0.2,Efectivo,66.0,María
+V0931,2026-04-22,Santiago Hernández,cartago,Monitor, Tecnologia ,6,850000,5%,Nequi,68.0,Luisa
+V0655,2026-02-26,Valentina Rodríguez,DOSQUEBRADAS,Mochila,Accesorios,6,$140.000,5%,Transferencia,62.0,Diana
+V0766,05-07-2026,Sebastián Rojas,Bogotá,Impresora,tecnologia,1,650000,10%,Transferencia,43.0,Felipe
+V0078,2026-03-21,Mariana Castro,CARTAGO,Celular, Tecnologia ,6,1800000,10%,Nequi,28.0,Felipe
+V0085,09/04/26,Mateo Díaz,Medellín,Silla ergonómica, Oficina ,4,720000,20%,,69.0,Andrés
+V0987,05/06/2026,Juan López,dosquebradas,Silla ergonómica,oficina,5,720000,0%,Efectivo,34.0,María
+V0083,29-07-2026,Paula Sánchez,CARTAGO,Agenda,PAPELERÍA,6,25000,5%,Transferencia,66.0,María
+V0458,04/02/2026,,Cali,Teclado,TECNOLOGÍA,1,$120.000,0.05,Nequi,19.0,María
+V0721,13/07/2026,Manuela Cárdenas,,Teclado,Tecnología ,1,120000,0.05,Nequi,25.0,Luisa
+V0833,28-05-2026,Natalia Jiménez,dosquebradas,Escritorio,Oficina,6,580000,20%,Nequi,26.0,Carlos
+V0437,27/03/26,Alejandro Ortiz,armenia,Tablet,Tecnología,6,1100000,15%,Tarjeta,50.0,Diana
+V0705,2026/01/29,Laura Gómez,Cali,Maletín,ACCESORIOS,6,190000,0,Efectivo,35.0,Felipe
+V1012,2026-01-14,Daniel Moreno,MANIZALES,Mouse,tecnologia,1,45000,10%,Tarjeta,41.0,Diana
+V0405,2026/03/18,Mateo Díaz,Bogota,Audífonos,TECNOLOGÍA,6,180000,15%,Daviplata,62.0,Luisa
+V1112,22/07/2026,Alejandro Ortiz,cartago,Tablet,tecnologia,3,1100000,5%,Nequi,28.0,Andrés
+V0679,06-06-2026,Mateo Díaz,Manizales,Agenda,Papelería,1,25000,20%,Tarjeta,49.0,Carlos
+V1164,12/01/2026,Laura Gómez,DOSQUEBRADAS,Silla ergonómica,oficina,6,720000,0%,Daviplata,66.0,Felipe
+V0105,24/06/2026,Carlos Vargas,Cali,Bolígrafo,papeleria,3,3500,10%,Efectivo,28.0,María
+V0784,12-03-2026,Camila Torres,MEDELLÍN,Celular,Tecnología ,5,1800000,0.1,Efectivo,22.0,Felipe
+V0677,21-03-2026,Mariana Castro,CALI,Silla ergonómica,Oficina,4,720000,20%,Efectivo,34.0,María
+V0063,15/03/2026,Manuela Cárdenas,Bogotá,Impresora,TECNOLOGÍA,2,650000,20%,Nequi,66.0,Carlos
+V0282,2026-02-21,Laura Gómez,CARTAGO,Agenda,Papelería,2,25000,5%,Daviplata,57.0,Carlos
+V0904,23/05/2026,Pedro Ruiz,pereira,Tablet,Tecnología,6,1100000,15%,Daviplata,48.0,María
+V0239,27/02/2026,Ana Pérez,armenia,Mochila,ACCESORIOS,4,140000,10%,Daviplata,63.0,Felipe
+V0224,11/06/2026,Mateo Díaz,bogotá,Celular,Tecnología ,2,$1.800.000,10%,Nequi,66.0,Diana
+V0146,2026-04-08,Luisa Fernández,pereira,Tablet,tecnologia,4,1100000,20%,Daviplata,45.0,Luisa
+V1190,18/06/2026,Luisa Fernández,Medellín,Mochila,ACCESORIOS,6,140000,5%,Transferencia,70.0,Luisa
+V0374,15/06/26,Juan López,DOSQUEBRADAS,Cuaderno,papeleria,1,12000,10%,Transferencia,67.0,Diana
+V0119,16-04-2026,Luisa Fernández,dosquebradas,Monitor,tecnologia,5,850000,20%,Nequi,26.0,Felipe
+V0909,27/02/26,Daniel Moreno,Cartago,Escritorio, Oficina ,6,580000,5%,Daviplata,66.0,Carlos
+V0251,25-04-2026,Mariana Castro,Manizales,Celular,Tecnología ,2,1800000,0.2,Transferencia,42.0,Felipe
+V1229,08-06-2026,Natalia Jiménez,Manizales,Escritorio,oficina,3,580000,0.1,Daviplata,49.0,Luisa
+V0010,2026/06/18,Natalia Jiménez,armenia,Teclado,Tecnología ,4,120000,0.2,Nequi,52.0,Carlos
+V0450,2026-03-26,Manuela Cárdenas,manizales,Laptop,Tecnología,1,2500000,20%,Tarjeta,69.0,Felipe
+V0991,21/06/26,Juan López,armenia,Escritorio, Oficina ,5,580000,20%,Tarjeta,29.0,Felipe
+V0594,04-01-2026,Andrés Martínez,manizales,Escritorio, Oficina ,1,,,Efectivo,26.0,María
+V0390,2026-01-07,Manuela Cárdenas, Bogotá ,Escritorio,OFICINA,4,580000,0.15,,41.0,Carlos
+V1000,2026/06/28,Valentina Rodríguez,MANIZALES,Escritorio,OFICINA,1,580000,0.1,Tarjeta,33.0,Luisa
+V1023,05-04-2026,Camila Torres,dosquebradas,Agenda,papeleria,2,25000,10%,Daviplata,43.0,María
+V0558,2026/05/12,Gabriela Muñoz, Medellín,Mouse,Tecnología,6,45000,10%,Nequi,20.0,Diana
+V0461,28-05-2026,Gabriela Muñoz,Dosquebradas,Tablet,tecnologia,3,1100000,20%,Transferencia,49.0,Diana
+V1174,2026/04/07,Valentina Rodríguez,DOSQUEBRADAS,Escritorio,oficina,2,580000,15%,,25.0,Diana
+V0145,03/03/2026,Gabriela Muñoz,CALI,Teclado,Tecnología,2,120000,20%,Tarjeta,41.0,Carlos
+V0502,2026/02/21,Felipe Arias,manizales,Cuaderno,PAPELERÍA,1,12000,10%,Efectivo,62.0,Carlos
+V1177,2026/04/04,Nicolás Quintero,cartago,Laptop,Tecnología,5,2500000,0.05,Transferencia,69.0,Diana
+V0540,2026-04-20,Pedro Ruiz,Armenia,Mochila,ACCESORIOS,3,140000,10%,Efectivo,64.0,Diana
+V0178,2026-04-10,Mariana Castro,Cali,Teclado,Tecnología,5,120000,0.15,Nequi,67.0,Felipe
+V1231,29-07-2026,Luisa Fernández,armenia,Silla ergonómica,OFICINA,2,720000,0.05,Nequi,19.0,Carlos
+V0786,30-04-2026,Sebastián Rojas,dosquebradas,Celular,Tecnología,0,1800000,15%,Daviplata,56.0,Carlos
+V0662,2026/04/16,Santiago Hernández,Armenia,Tablet,Tecnología ,4,$1.100.000,0,Daviplata,23.0,Felipe
+V1140,2026-02-28,Ana Pérez,cartago,Celular,Tecnología,4,1800000,0%,,69.0,Felipe
+V0008,2026/04/22,Manuela Cárdenas,,Audífonos,TECNOLOGÍA,2,0,15%,Efectivo,29.0,Felipe
+V0625,2026/05/01,Santiago Hernández,manizales,Mochila,ACCESORIOS,1,140000,0.1,,63.0,Luisa
+V0954,2026-04-21,Mateo Díaz,CALI,Laptop,Tecnología,1,2500000,0%,Efectivo,150.0,Luisa
+V0358,05-05-2026,Felipe Arias, Medellín,Maletín, Accesorios ,6,190000,0.15,Daviplata,47.0,Luisa
+V0330,2026/01/11,Paula Sánchez,dosquebradas,Mochila,ACCESORIOS,2,140000,20%,Nequi,66.0,María
+V0794,17-04-2026,Natalia Jiménez,BOGOTA,Celular,TECNOLOGÍA,-1,1800000,5%,Transferencia,25.0,
+V0939,2026/05/04,Pedro Ruiz,medellin,Tablet,,3,1100000,0.1,Efectivo,21.0,Luisa
+V0259,02/02/26,Camila Torres,armenia,Celular, Tecnologia ,6,1800000,5%,Efectivo,46.0,Carlos
+V0985,23/07/26,Paula Sánchez,Bogota,Escritorio,Oficina,4,580000,0.1,Efectivo,19.0,Carlos
+V1135,2026/04/14,Alejandro Ortiz,armenia,Escritorio,oficina,2,580000,15%,Tarjeta,50.0,Felipe
+V0874,24/05/26,Felipe Arias,BOGOTA,Impresora,Tecnología,2,650000,0.1,Efectivo,30.0,Felipe
+V0672,14-02-2026,Carlos Vargas,pereira,Maletín,ACCESORIOS,6,190000,15%,Tarjeta,25.0,Diana
+V0938,28/05/26,Luisa Fernández,MANIZALES,Audífonos,tecnologia,5,180000,20%,Efectivo,51.0,Carlos
+V0526,2026/01/02,Valentina Rodríguez,bogotá,Escritorio,Oficina,1,580000,15%,Efectivo,-5.0,Diana
+V1041,13/06/26,Pedro Ruiz,armenia,Teclado,tecnologia,2,120000,0.05,Transferencia,32.0,Carlos
+V0737,2026-05-25,Mateo Díaz,ARMENIA,Teclado,TECNOLOGÍA,3,120000,15%,Transferencia,36.0,Diana
+V0848,07/07/2026,Gabriela Muñoz,cali,Impresora,Tecnología ,4,650000,15%,Transferencia,26.0,Luisa
+V1213,24-07-2026,Laura Gómez,medellin,Impresora,Tecnología ,5,650000,5%,Tarjeta,,Carlos
+V0441,22-04-2026,Camila Torres,Dosquebradas,Silla ergonómica,oficina,4,720000,0.15,Transferencia,68.0,Diana
+V0532,28/07/2026,Nicolás Quintero, Cali ,Cuaderno,PAPELERÍA,3,12000,0%,Efectivo,21.0,Luisa
+V0227,2026-07-12,Juliana Morales,Medellín,Celular,TECNOLOGÍA,2,1800000,5%,Tarjeta,64.0,Luisa
+V0229,2026-02-22,Luisa Fernández,BOGOTA,Teclado,Tecnología,6,120000,0%,Tarjeta,56.0,Luisa
+V1107,08-01-2026,Camila Torres,CALI,Maletín,ACCESORIOS,5,190000,15%,Nequi,68.0,Luisa
+V0213,28-03-2026,Sofía Ramírez,MANIZALES,Laptop, Tecnologia ,3,2500000,10%,Daviplata,32.0,Diana
+V0080,19/03/2026,Luisa Fernández,Armenia,Monitor, Tecnologia ,2,850000,5%,Tarjeta,45.0,Luisa
+V0149,16-07-2026,Sebastián Rojas, Medellín,Escritorio,Oficina,5,580000,20%,Daviplata,46.0,Andrés
+V1074,2026-02-28,Santiago Hernández,Manizales,Tablet,tecnologia,2,1100000,5%,Tarjeta,38.0,Carlos
+V0797,2026/07/27,Felipe Arias,Armenia,Agenda,Papelería,6,25000,5%,Transferencia,31.0,Carlos
+V0824,08/05/2026,Laura Gómez,Armenia,Impresora,TECNOLOGÍA,5,650000,15%,Daviplata,59.0,Andrés
+V0134,28/02/26,Ana Pérez,cali,Mochila,Accesorios,2,140000,15%,Tarjeta,25.0,Felipe
+V0882,12/02/26,Natalia Jiménez,medellin,Silla ergonómica,OFICINA,4,$720.000,5%,Transferencia,57.0,María
+V0409,18-02-2026,Laura Gómez,bogotá,Monitor,Tecnología,5,850000,20%,Nequi,62.0,Andrés
+V0789,15/06/26,Natalia Jiménez,Pereira,Teclado,tecnologia,5,120000,0.1,Transferencia,19.0,Luisa
+V0508,2026/01/17,Luisa Fernández,CARTAGO,Escritorio, Oficina ,2,580000,20%,Nequi,51.0,Andrés
+V0997,04-03-2026,Juan López,dosquebradas,Laptop, Tecnologia ,4,2500000,5%,Efectivo,37.0,Andrés
+V0505,09/03/2026,Natalia Jiménez,BOGOTA,Monitor,tecnologia,-3,850000,5%,Transferencia,34.0,Luisa
+V0757,2026-03-23,Nicolás Quintero, Bogotá ,Celular,Tecnología ,3,1800000,15%,Transferencia,28.0,Carlos
+V0348,13-02-2026,Juan López, Bogotá ,Monitor, Tecnologia ,1,850000,10%,Efectivo,48.0,Diana
+V0387,22-05-2026,Alejandro Ortiz,cali,Escritorio,OFICINA,2,580000,0%,Nequi,48.0,Felipe
+V0001,2026-01-29,Laura Gómez,cali,Cuaderno,Papelería,1,12000,10%,Daviplata,52.0,María
+V0361,2026/05/19,Sebastián Rojas,armenia,Cuaderno,PAPELERÍA,5,12000,10%,Efectivo,47.0,Carlos
+V1206,09-01-2026,Mariana Castro,DOSQUEBRADAS,Agenda,papeleria,3,25000,10%,Nequi,48.0,Luisa
+V0476,06/05/26,Pedro Ruiz, Cali ,Maletín, Accesorios ,6,190000,15%,Tarjeta,26.0,Diana
+V0876,10-06-2026,Daniel Moreno,medellin,Impresora,TECNOLOGÍA,4,650000,0.2,Tarjeta,47.0,Carlos
+V0870,28/03/2026,Carlos Vargas,Cartago,Teclado,Tecnología,6,120000,10%,Nequi,36.0,Andrés
+V0850,2026/02/10,Alejandro Ortiz, Medellín,Maletín,accesorios,6,190000,15%,Efectivo,31.0,Luisa
+V0696,2026-07-24,Carlos Vargas,BOGOTA,Monitor, Tecnologia ,3,850000,5%,Daviplata,64.0,María
+V0173,16/06/2026,Mateo Díaz,bogotá,Maletín,accesorios,2,190000,0%,Daviplata,59.0,Diana
+V0451,08-04-2026,Daniel Moreno,Medellín,Escritorio,OFICINA,1,580000,15%,Nequi,19.0,Luisa
+V0126,28/04/2026,Felipe Arias,dosquebradas,Agenda,PAPELERÍA,6,$25.000,,Tarjeta,36.0,Luisa
+V0717,13/03/26,Gabriela Muñoz, Bogotá ,Silla ergonómica,oficina,4,720000,10%,Daviplata,49.0,Carlos
+V0531,2026/02/05,Camila Torres,manizales,Laptop,Tecnología,3,2500000,15%,Daviplata,64.0,Luisa
+V0091,21-03-2026,Andrés Martínez,cali,Monitor,TECNOLOGÍA,4,850000,5%,Tarjeta,36.0,Diana
+V1234,13/04/26,,Bogotá,Mouse,TECNOLOGÍA,3,45000,20%,Nequi,54.0,María
+V0182,2026-01-17,Juliana Morales,bogotá,Silla ergonómica,Oficina,3,720000,20%,Tarjeta,54.0,Carlos
+V0738,2026/04/26,Valentina Rodríguez,ARMENIA,Silla ergonómica,OFICINA,6,720000,5%,Tarjeta,31.0,Felipe
+V0415,2026/05/07,Nicolás Quintero,Cartago,Teclado,Tecnología ,3,$120.000,10%,Nequi,25.0,Andrés
+V0252,11/05/26,Diego Restrepo,Pereira,Bolígrafo,papeleria,4,3500,15%,Efectivo,24.0,Diana
+V0070,2026-03-12,Andrés Martínez,Manizales,Laptop,tecnologia,2,2500000,0.05,Nequi,0.0,Felipe
+V0132,19-05-2026,Carlos Vargas,dosquebradas,Mouse, Tecnologia ,1,45000,0%,Nequi,26.0,Carlos
+V0301,14/01/2026,Ana Pérez,Pereira ,Maletín, Accesorios ,6,190000,5%,Daviplata,68.0,María
+V0846,11/07/2026,Camila Torres,MANIZALES,Maletín,accesorios,2,190000,15%,Nequi,27.0,Andrés
+V0327,06-06-2026,Camila Torres,CARTAGO,Bolígrafo,PAPELERÍA,5,3500,10%,Efectivo,19.0,Luisa
+V1247,18/07/2026,Pedro Ruiz,CALI,Audífonos,tecnologia,1,180000,0,Nequi,30.0,Diana
+V0891,27-04-2026,Andrés Martínez,dosquebradas,Celular, Tecnologia ,4,1800000,20%,Transferencia,27.0,Andrés
+V0500,27/05/2026,Daniel Moreno,DOSQUEBRADAS,Maletín,ACCESORIOS,2,190000,20%,Transferencia,33.0,Felipe
+V1009,2026/07/29,Sofía Ramírez,Armenia,Mouse, Tecnologia ,1,45000,15%,Daviplata,24.0,Felipe
+V0365,30/03/26,Santiago Hernández,DOSQUEBRADAS,Agenda, Papelería,1,25000,10%,Nequi,37.0,Andrés
+V0496,2026/03/26,Santiago Hernández, Bogotá ,Teclado,tecnologia,3,120000,0,Transferencia,55.0,Carlos
+V1187,2026/06/16,,Cali,Celular, Tecnologia ,5,1800000,0%,Tarjeta,64.0,Felipe
+V0339,2026/06/09,Valentina Rodríguez,Pereira,Escritorio,Oficina,3,580000,5%,Nequi,69.0,Diana
+V0422,22/06/26,Natalia Jiménez,armenia,Escritorio,OFICINA,4,580000,0.2,Tarjeta,50.0,Carlos
+V0165,2026-05-07,Mariana Castro,CALI,Cuaderno,papeleria,4,12000,15%,Nequi,19.0,Felipe
+V0029,20/02/2026,Gabriela Muñoz,dosquebradas,Bolígrafo, Papelería,2,3500,0,Efectivo,47.0,María
+V0517,22/06/2026, Juan López ,MANIZALES,Mouse,Tecnología ,5,45000,5%,Tarjeta,22.0,Luisa
+V0194,2026/04/09,Mateo Díaz,cartago,Audífonos,Tecnología ,-1,180000,15%,Daviplata,69.0,Andrés
+V0271,01-01-2026,Carlos Vargas, Bogotá ,Mochila,accesorios,6,140000,15%,Transferencia,32.0,Luisa
+V1053,2026-02-06,Camila Torres,ARMENIA,Impresora,tecnologia,4,650000,5%,Transferencia,36.0,Andrés
+V0170,2026-06-12,Alejandro Ortiz,CARTAGO,Mouse,TECNOLOGÍA,-3,45000,15%,Tarjeta,49.0,Felipe
+V0799,2026/05/02,Camila Torres,ARMENIA,Mouse,Tecnología ,4,45000,15%,Transferencia,200.0,Felipe
+V0653,2026/01/05,Paula Sánchez,CARTAGO,Mochila,ACCESORIOS,5,140000,10%,Daviplata,24.0,Andrés
+V0174,2026-01-03,Pedro Ruiz,armenia,Impresora,TECNOLOGÍA,1,650000,10%,Efectivo,22.0,Luisa
+V0519,2026-07-01,Camila Torres,Cartago,Mochila, Accesorios ,6,140000,15%,Daviplata,63.0,María
+V1037,16-07-2026,Mateo Díaz,cartago,Silla ergonómica,oficina,6,720000,0.05,Daviplata,57.0,Felipe
+V0880,23/05/2026,Luisa Fernández,armenia,Cuaderno, Papelería,1,12000,0%,Nequi,66.0,Carlos
+V0492,2026/01/10,Juliana Morales,Cartago,Celular,Tecnología ,3,1800000,15%,Efectivo,70.0,Diana
+V0074,2026/03/22,Camila Torres,Pereira ,Tablet,Tecnología ,6,1100000,10%,Daviplata,23.0,Andrés
+V1067,12/04/2026,Juan López,Bogota,Teclado,Tecnología,1,120000,0.05,Tarjeta,62.0,Carlos
+V0588,2026/02/26,Camila Torres,Manizales,Mochila,accesorios,3,140000,10%,Efectivo,20.0,Felipe
+V0658,2026-03-15,Juan López,Manizales,Impresora,TECNOLOGÍA,1,99999999,10%,Transferencia,49.0,Felipe
+V0235,2026/03/08,Luisa Fernández, Bogotá ,Mouse,tecnologia,6,0,10%,Nequi,32.0,Andrés
+V0215,15/05/2026,Mariana Castro,armenia,Bolígrafo, Papelería,5,3500,0%,Tarjeta,20.0,Diana
+V0163,22/01/2026,Juliana Morales,dosquebradas,Escritorio,oficina,6,580000,5%,Nequi,27.0,Diana
+V0133,2026-06-19,Ana Pérez,manizales,Cuaderno, Papelería,5,12000,5%,Daviplata,51.0,Luisa
+V0875,2026-05-10,Manuela Cárdenas,Dosquebradas,Bolígrafo,PAPELERÍA,3,3500,5%,Nequi,34.0,María
+V0826,22/03/2026,Alejandro Ortiz,cali,Escritorio,oficina,1,580000,0.2,Efectivo,,Carlos
+V1047,2026-06-14,Gabriela Muñoz,CARTAGO,Agenda,Papelería,1,25000,10%,Daviplata,47.0,Diana
+V0186,19/05/26,Santiago Hernández,dosquebradas,Monitor,Tecnología,3,$850.000,0%,Efectivo,65.0,Diana
+V0042,02/05/26,Carlos Vargas,CARTAGO,Agenda,PAPELERÍA,6,$25.000,15%,Nequi,43.0,Diana
+V0693,2026-07-21,Daniel Moreno,Medellín,Escritorio,Oficina,3,580000,0.1,Daviplata,36.0,María
+V0109,2026-02-13,Juan López,MANIZALES,Cuaderno,papeleria,5,12000,20%,Daviplata,54.0,Luisa
+V0974,19/07/26,,BOGOTA,Laptop,Tecnología ,2,2500000,15%,Transferencia,27.0,Diana
+V0569,18/06/26,Sebastián Rojas,Cartago,Teclado, Tecnologia ,2,120000,5%,Transferencia,41.0,Luisa
+V0728,24/05/2026,Andrés Martínez,MANIZALES,Monitor,tecnologia,4,850000,0.15,Nequi,38.0,Felipe
+V1080,08/05/26,Natalia Jiménez, Medellín,Audífonos,TECNOLOGÍA,1,$180.000,5%,Nequi,60.0,Luisa
+V1227,10/06/26,Paula Sánchez,pereira,Monitor,TECNOLOGÍA,2,850000,15%,Daviplata,23.0,Luisa
+V0484,06-02-2026,Luisa Fernández,Dosquebradas,Celular,TECNOLOGÍA,4,1800000,10%,tarjeta,33.0,Andrés
+V0469,26/07/2026,Juliana Morales,Pereira ,Agenda,PAPELERÍA,5,25000,0%,Nequi,21.0,Luisa
+V0025,09/03/2026,Mariana Castro, Pereira,Escritorio,Oficina,1,580000,0%,Daviplata,50.0,Felipe
+V1092,2026-05-03,Carlos Vargas,Dosquebradas,Maletín, Accesorios ,6,190000,0%,Daviplata,68.0,Diana
+V0949,25-03-2026,Laura Gómez,cartago,Mochila,accesorios,6,140000,0.15,Tarjeta,0.0,María
+V0849,32/01/2026,Sebastián Rojas,pereira,Silla ergonómica,oficina,4,720000,10%,Transferencia,59.0,Felipe
+V1078,2026-01-08,Paula Sánchez,CALI,Escritorio,Oficina,6,580000,0%,Tarjeta,20.0,Andrés
+V0367,10/03/26,Sofía Ramírez,MEDELLÍN,Audífonos,Tecnología ,1,180000,,Tarjeta,64.0,Diana
+V0951,24/02/26,Felipe Arias, Cali ,Monitor,Tecnología,2,850000,10%,Nequi,43.0,Diana
+V1121,2026/07/25,Mateo Díaz, Medellín,Tablet,Tecnología,5,1100000,0.2,Transferencia,66.0,Luisa
+V0384,12/05/2026,Pedro Ruiz,Armenia,Impresora,Tecnología,1,650000,0%,Efectivo,30.0,Diana
+V0718,17/07/26,Andrés Martínez, Cali ,Tablet,Tecnología ,2,1100000,15%,Efectivo,69.0,Carlos
+V0455,25/01/2026,Andrés Martínez,Dosquebradas,Tablet,Tecnología,4,1100000,0.2,Nequi,19.0,Diana
+V0265,14-02-2026,Carlos Vargas,armenia,Escritorio, Oficina ,4,580000,15%,Daviplata,42.0,Carlos
+V1250,18/04/2026,Gabriela Muñoz,dosquebradas,Escritorio,OFICINA,-3,580000,20%,Nequi,29.0,Felipe
+V0233,29/03/2026,Pedro Ruiz,Medellín,Mochila,accesorios,2,140000,0%,Tarjeta,48.0,Luisa
+V0445,2026/03/28,Alejandro Ortiz,armenia,Maletín,ACCESORIOS,4,190000,5%,Transferencia,38.0,Felipe
+V0396,27-03-2026,Daniel Moreno,MEDELLÍN,Cuaderno,papeleria,4,12000,20%,Transferencia,62.0,María
+V0918,12-07-2026,,pereira,Escritorio,Oficina,3,580000,20%,Daviplata,66.0,Diana
+V0177,05-06-2026,Manuela Cárdenas,Bogota,Silla ergonómica,Oficina,5,720000,0.05,Transferencia,33.0,Andrés
+V0019,2026-05-20,,Manizales,Mochila,Accesorios,6,140000,10%,Daviplata,70.0,María
+V1118,2026-05-09,Luisa Fernández, Bogotá ,Silla ergonómica, Oficina ,2,720000,0.1,Nequi,18.0,Felipe
+V1238,18/05/26,Juan López,dosquebradas,Tablet,TECNOLOGÍA,4,$1.100.000,0.15,Efectivo,25.0,Diana
+V0922,01/04/26,Santiago Hernández, Bogotá ,Celular,Tecnología,4,1800000,10%,Nequi,48.0,Felipe
+V0771,2026/05/05,Valentina Rodríguez,cali,Mochila,ACCESORIOS,6,140000,5%,Daviplata,60.0,Diana
+V0596,2026-02-07,Santiago Hernández,BOGOTA,Tablet,TECNOLOGÍA,3,1100000,0.1,Tarjeta,70.0,Felipe
+V0062,19-03-2026,Mariana Castro,Pereira ,Mochila,Accesorios,2,140000,15%,Daviplata,36.0,Diana
+V0273,28-01-2026,Valentina Rodríguez,DOSQUEBRADAS,Celular,Tecnología ,2,1800000,15%,Nequi,41.0,María
+V1198,2026/05/26,Sofía Ramírez,dosquebradas,Audífonos,Tecnología,1,180000,5%,Daviplata,64.0,Diana
+V0279,27/04/26,Mariana Castro,MANIZALES,Monitor, Tecnologia ,4,99999999,20%,Nequi,36.0,Felipe
+V0953,26/04/26,Santiago Hernández,pereira,Monitor, Tecnologia ,3,850000,10%,Efectivo,55.0,Luisa
+V0695,11-06-2026,Sofía Ramírez,Manizales,Escritorio,OFICINA,5,580000,0.15,Efectivo,56.0,Andrés
+V0369,2026-07-01,Gabriela Muñoz,MEDELLÍN,Mouse,TECNOLOGÍA,1,45000,0,Nequi,54.0,Diana
+V1008,2026-04-22,Luisa Fernández,CALI,Tablet, Tecnologia ,6,1100000,0%,Nequi,19.0,Felipe
+V0736,13/06/2026,Daniel Moreno, Pereira,Monitor,TECNOLOGÍA,3,850000,0.15,Efectivo,59.0,Andrés
+V0927,17/02/2026,Andrés Martínez, Pereira,Maletín,accesorios,2,190000,0,Efectivo,50.0,María
+V0975,06/01/26,Felipe Arias, Medellín,Tablet,Tecnología ,1,1100000,20%,Tarjeta,33.0,María
+V0810,2026/07/14,Pedro Ruiz,Cartago,Audífonos,Tecnología,3,180000,0,Transferencia,56.0,Andrés
+V1156,28/04/2026,Natalia Jiménez,armenia,Impresora,tecnologia,4,$650.000,5%,Nequi,40.0,María
+V0548,14-05-2026,Pedro Ruiz,CARTAGO,Teclado,Tecnología ,5,120000,0.2,Efectivo,53.0,María
+V1001,26/02/2026,Santiago Hernández,bogotá,Agenda, Papelería,2,25000,0%,Efectivo,68.0,María
+V0689,06-03-2026,Juan López,armenia,Cuaderno,papeleria,0,-50000,20%,Nequi,29.0,Carlos
+V0739,23-02-2026,Juliana Morales,armenia,Bolígrafo, Papelería,3,$3.500,5%,Daviplata,60.0,Carlos
+V1217,16-03-2026,Diego Restrepo,Pereira,Impresora,Tecnología ,2,650000,10%,Transferencia,46.0,Diana
+V0457,30/01/26,Felipe Arias,armenia,Tablet, Tecnologia ,1,1100000,5%,Transferencia,65.0,Carlos
+V0394,2026-07-24,Andrés Martínez,Manizales,Celular,tecnologia,6,1800000,0%,Nequi,29.0,María
+V0676,19/05/2026,Daniel Moreno,Bogota,Escritorio,oficina,3,580000,0%,,63.0,Felipe
+V0761,2026-04-26,Natalia Jiménez,dosquebradas,Audífonos, Tecnologia ,2,$180.000,0.05,Efectivo,66.0,Diana
+V0463,08/07/2026,Valentina Rodríguez, Medellín,Cuaderno,Papelería,3,12000,15%,Nequi,65.0,Luisa
+V0729,2026/05/06,Alejandro Ortiz,Dosquebradas,Impresora,Tecnología ,6,650000,10%,Daviplata,,María
+V0420,14/07/26,Diego Restrepo,Pereira,Mouse, Tecnologia ,1,45000,20%,Tarjeta,49.0,Luisa
+V0376,2026-05-08,Valentina Rodríguez,CARTAGO,Audífonos,Tecnología ,5,$180.000,15%,Efectivo,39.0,Diana
+V0413,2026/05/09,Andrés Martínez,Pereira,Mochila,accesorios,6,140000,20%,Daviplata,18.0,Diana
+V0075,2026/02/01,Pedro Ruiz,cali,Cuaderno, Papelería,4,12000,0.1,Efectivo,21.0,Carlos
+V1194,28/01/2026,Andrés Martínez,armenia,Cuaderno,Papelería,5,12000,10%,Nequi,65.0,María
+V0979,25-02-2026,Valentina Rodríguez,BOGOTA,Monitor,tecnologia,3,$850.000,0%,Daviplata,25.0,Carlos
+V0501,2026-05-19,Santiago Hernández, Pereira,Maletín,ACCESORIOS,2,190000,0.05,Efectivo,51.0,María
+V0907,03/05/26,Camila Torres, Bogotá ,Impresora,Tecnología ,4,650000,5%,Tarjeta,69.0,Felipe
+V0617,21/04/2026, Andrés Martínez ,manizales,Bolígrafo,Papelería,4,3500,5%,Transferencia,35.0,Diana
+V0115,31-01-2026,Luisa Fernández,Pereira,Escritorio,Oficina,2,580000,0,Efectivo,66.0,Diana
+V0418,45/05/2026,Luisa Fernández,Manizales,Bolígrafo, Papelería,5,3500,20%,Tarjeta,48.0,Carlos
+V0602,2026-02-27,Nicolás Quintero, Bogotá ,Mochila,accesorios,1,140000,5%,Tarjeta,62.0,María
+V0605,2026-07-01,Santiago Hernández,Dosquebradas,Audífonos,Tecnología ,2,180000,15%,Daviplata,26.0,Carlos
+V0944,22/01/26,Luisa Fernández,Bogota,Escritorio,OFICINA,1,99999999,0.2,Efectivo,49.0,Carlos
+V0090,09/02/2026,Paula Sánchez,MANIZALES,Tablet, Tecnologia ,2,1100000,5%,Efectivo,46.0,Felipe
+V0933,01/04/26,Andrés Martínez,Pereira,Audífonos,tecnologia,5,180000,20%,Daviplata,40.0,Andrés
+V1221,2026-02-26,Paula Sánchez,Dosquebradas,Laptop, Tecnologia ,2,2500000,10%,Daviplata,45.0,Felipe
+V0754,19-02-2026,Valentina Rodríguez,dosquebradas,Bolígrafo,papeleria,5,3500,0.1,Transferencia,62.0,Felipe
+V0499,2026-07-23,Pedro Ruiz,Pereira ,Impresora,Tecnología,4,650000,0.2,Daviplata,47.0,María
+V1209,2026/06/18,,MANIZALES,Tablet,Tecnología,4,1100000,0.05,Nequi,36.0,Felipe
+V1004,02/06/26,Pedro Ruiz,Dosquebradas,Mochila,accesorios,5,140000,0%,Nequi,34.0,Andrés
+V1002,14/06/26,Mateo Díaz,armenia,Tablet,Tecnología,3,1100000,5%,Nequi,23.0,Felipe
+V0012,2026-02-24,Nicolás Quintero,dosquebradas,Impresora, Tecnologia ,5,650000,5%,Nequi,48.0,Luisa
+V0397,06/04/2026,Gabriela Muñoz,,Impresora,tecnologia,3,650000,0%,Tarjeta,28.0,Carlos
+V0851,2026-04-30,Laura Gómez,Bogotá,Celular,Tecnología,2,1800000,0.05,Tarjeta,51.0,Andrés
+V0556,03/02/2026,Paula Sánchez,cartago,Mouse,tecnologia,3,$45.000,0.2,Efectivo,37.0,María
+V0043,26/03/2026,Valentina Rodríguez, Cali ,Silla ergonómica,OFICINA,3,720000,15%,Daviplata,25.0,Felipe
+V0168,2026/07/20,Juliana Morales,MANIZALES,Teclado,Tecnología,2,120000,5%,Efectivo,28.0,Luisa
+V0417,13/04/26,Natalia Jiménez,bogotá,Tablet, Tecnologia ,6,1100000,20%,Nequi,,Andrés
+V0577,2026/07/11,Juan López,medellin,Celular, Tecnologia ,4,1800000,0%,Transferencia,20.0,Carlos
+V0268,14-04-2026,Mateo Díaz,medellin,Silla ergonómica, Oficina ,5,720000,0.2,Daviplata,23.0,María
+V1054,18/01/2026,Valentina Rodríguez,Medellín,Monitor,TECNOLOGÍA,5,850000,0.05,Daviplata,65.0,Carlos
+V0427,2026-05-29,Manuela Cárdenas,MANIZALES,Mochila,ACCESORIOS,1,$140.000,0.2,Nequi,48.0,Diana
+V0691,2026/01/10,Ana Pérez,ARMENIA,Cuaderno,Papelería,2,12000,20%,Daviplata,21.0,María
+V0545,2026/04/02,Gabriela Muñoz,CALI,Laptop, Tecnologia ,3,0,0,Daviplata,19.0,Diana
+V1195,08/06/2026,Laura Gómez,Bogota,Mochila,Accesorios,3,$140.000,5%,Transferencia,58.0,Luisa
+V0675,02/04/26,Daniel Moreno,Bogotá,Celular, Tecnologia ,5,1800000,20%,Efectivo,22.0,Carlos
+V0690,21/01/2026,Santiago Hernández,medellin,Escritorio,Oficina,3,580000,20%,Efectivo,68.0,Carlos
+V1123,01-06-2026,Ana Pérez,Dosquebradas,Monitor,Tecnología ,4,850000,5%,Efectivo,25.0,María
+V1249,02-01-2026,Sebastián Rojas, Bogotá ,Teclado,Tecnología ,6,120000,20%,Tarjeta,22.0,Andrés
+V0160,29-03-2026,Paula Sánchez, Cali ,Mochila,accesorios,6,140000,0%,Efectivo,29.0,Diana
+V1005,22/07/26,Daniel Moreno,Bogota,Escritorio,OFICINA,3,$580.000,5%,Efectivo,69.0,María
+V0258,2026-01-30,Mariana Castro,bogotá,Monitor,Tecnología ,2,850000,0.2,Nequi,47.0,Andrés
+V0959,2026-04-10,Alejandro Ortiz, Cali ,Mochila, Accesorios ,4,140000,0%,Nequi,57.0,Andrés
+V0336,10/01/2026,Nicolás Quintero,MANIZALES,Celular,Tecnología ,2,1800000,,Daviplata,21.0,Felipe
+V0980,2026-07-26,Mateo Díaz, Cali ,Mouse,TECNOLOGÍA,3,45000,20%,Tarjeta,62.0,Carlos
+V0016,15/01/26,Laura Gómez, Cali ,Celular,Tecnología,1,1800000,20%,Daviplata,50.0,María
+V1024,05/01/26,Gabriela Muñoz,BOGOTA,Celular,Tecnología,5,1800000,0%,Nequi,42.0,Felipe
+V0325,29/05/2026,Manuela Cárdenas,MEDELLÍN,Teclado,Tecnología,5,120000,5%,Daviplata,26.0,Felipe
+V0769,26-05-2026,Mariana Castro,Cali,Teclado,tecnologia,6,120000,10%,Daviplata,62.0,Andrés
+V0608,12/01/26,Valentina Rodríguez,armenia,Escritorio,OFICINA,5,580000,15%,Efectivo,40.0,Diana
+V1122,2026/02/05,Andrés Martínez,Manizales,Cuaderno,papeleria,3,12000,0.15,Daviplata,52.0,Diana
+V1010,2026/04/22,Daniel Moreno,Pereira,Teclado,tecnologia,5,120000,0%,Transferencia,27.0,Felipe
+V0946,17/03/2026,Gabriela Muñoz,Medellín,Audífonos,Tecnología,6,180000,0.15,Tarjeta,60.0,Felipe
+V0223,24/06/26,Paula Sánchez,MEDELLÍN,Mochila,accesorios,4,$140.000,0.2,Tarjeta,26.0,Luisa
+V0180,12-06-2026,Felipe Arias,PEREIRA,Escritorio,oficina,6,580000,0%,Tarjeta,33.0,Carlos
+V1099,07/02/26,Sebastián Rojas,Dosquebradas,Impresora,,3,650000,0,Nequi,62.0,Diana
+V0100,17/02/2026,Diego Restrepo,manizales,Celular,Tecnología,4,1800000,15%,Tarjeta,45.0,Andrés
+V0758,2026/07/11,Juliana Morales,dosquebradas,Monitor,Tecnología,5,850000,10%,Transferencia,27.0,Felipe
+V0522,15/07/2026,Mariana Castro,Cali,Tablet, Tecnologia ,5,$1.100.000,0%,Tarjeta,67.0,Carlos
+V0762,08/06/2026,Andrés Martínez,CARTAGO,Laptop,Tecnología,2,2500000,5%,Transferencia,44.0,Carlos
+V0023,2026-02-15,Natalia Jiménez, Pereira,Laptop,tecnologia,6,2500000,10%,Efectivo,33.0,Luisa
+V0357,20/05/2026,Camila Torres,Pereira,Tablet,Tecnología,2,1100000,0.05,Efectivo,44.0,Diana
+V0734,20/06/26,Valentina Rodríguez,Dosquebradas,Mochila,Accesorios,6,140000,0%,Transferencia,23.0,Andrés
+V1058,2026-04-28,Sofía Ramírez,medellin,Mouse,tecnologia,6,45000,0.05,Daviplata,59.0,Felipe
+V1192,2026-07-21,Carlos Vargas,cali,Impresora,Tecnología,1,650000,20%,Nequi,18.0,Diana
+V0612,2026-07-24,Andrés Martínez,cartago,Silla ergonómica, Oficina ,1,720000,15%,Transferencia,35.0,Luisa
+V1085,2026-01-31,Mateo Díaz,CARTAGO,Cuaderno,PAPELERÍA,4,12000,0.15,Efectivo,24.0,María
+V0341,2026/05/21,Nicolás Quintero,cartago,Silla ergonómica,Oficina,3,720000,0%,Efectivo,19.0,Luisa
+V0432,18/03/26,Alejandro Ortiz,Bogota,Escritorio,OFICINA,1,580000,15%,Nequi,64.0,Carlos
+V0940,09-02-2026,Nicolás Quintero,BOGOTA,Maletín,Accesorios,1,190000,,Nequi,37.0,Luisa
+V0218,05/06/26,Natalia Jiménez,Bogotá,Audífonos,Tecnología ,3,180000,10%,Transferencia,,Felipe
+V0204,21/05/2026,Juan López,BOGOTA,Mouse,tecnologia,1,45000,10%,Efectivo,59.0,Luisa
+V1028,12/01/26,Pedro Ruiz, Medellín,Silla ergonómica, Oficina ,1,720000,15%,Daviplata,34.0,María
+V1152,2026/05/29,Laura Gómez,,Maletín,ACCESORIOS,1,190000,0%,Daviplata,20.0,Carlos
+V0094,05/02/26,Luisa Fernández,Dosquebradas,Mochila,ACCESORIOS,6,$140.000,15%,Efectivo,34.0,Andrés
+V0902,04/05/26,Mateo Díaz, Cali ,Monitor,Tecnología,4,0,0.05,Tarjeta,20.0,María
+V0069,19/06/26,Valentina Rodríguez,cali,Mouse,TECNOLOGÍA,2,$45.000,20%,Efectivo,26.0,Felipe
+V1075,2026-06-07,Carlos Vargas,CARTAGO,Laptop,TECNOLOGÍA,3,2500000,15%,Transferencia,45.0,Andrés
+V0285,25-03-2026,Valentina Rodríguez,DOSQUEBRADAS,Mouse,TECNOLOGÍA,3,45000,20%,Transferencia,57.0,Luisa
+V0697,21/07/2026,Felipe Arias,manizales,Impresora,TECNOLOGÍA,4,650000,5%,Transferencia,67.0,Carlos
+V0086,2026/01/22,Natalia Jiménez,dosquebradas,Agenda,Papelería,5,25000,5%,Transferencia,57.0,Carlos
+V0435,2026-06-05,Diego Restrepo, Cali ,Cuaderno, Papelería,1,12000,0%,Tarjeta,37.0,Luisa
+V1226,17/01/26,Daniel Moreno,MANIZALES,Mochila,accesorios,2,$140.000,0.05,Efectivo,68.0,Luisa
+V0154,04/06/26,Santiago Hernández,armenia,Celular,TECNOLOGÍA,6,1800000,5%,Nequi,65.0,Andrés
+V0076,23/05/26,Ana Pérez,Manizales,Celular,tecnologia,3,1800000,0,Transferencia,67.0,Diana
+V1109,08/02/2026,Sofía Ramírez, Bogotá ,Teclado,Tecnología,3,120000,0.05,Tarjeta,62.0,
+V0790,08/03/26,Camila Torres,cali,Teclado,tecnologia,2,120000,20%,Transferencia,67.0,María
+V0581,13/04/26,Daniel Moreno,cali,Teclado,TECNOLOGÍA,1,120000,10%,Nequi,23.0,Luisa
+V0447,01/05/26,Mateo Díaz,cartago,Laptop,Tecnología,3,2500000,0.05,Efectivo,20.0,Carlos
+V0704,03/06/26,,CARTAGO,Laptop,,1,2500000,0.2,Nequi,41.0,Andrés
+V0189,2026-02-12,Laura Gómez,MEDELLÍN,Mouse,Tecnología ,4,45000,0.15,Tarjeta,46.0,María
+V0272,2026-03-01,Luisa Fernández, Pereira,Bolígrafo,papeleria,1,3500,10%,Transferencia,65.0,Luisa
+V0237,2026-03-13,Mateo Díaz,cartago,Celular,Tecnología,1,1800000,20%,Nequi,47.0,Diana
+V0488,2026/03/18,Nicolás Quintero,ARMENIA,Mouse,TECNOLOGÍA,1,45000,0.15,Nequi,45.0,Andrés
+V1232,12-02-2026, Camila Torres ,MANIZALES,Bolígrafo,papeleria,1,3500,10%,Nequi,57.0,Luisa
+V0560,2026-05-04,Natalia Jiménez,Cartago,Tablet,Tecnología ,6,1100000,15%,Daviplata,68.0,Felipe
+V0118,2026-02-13,Paula Sánchez,armenia,Impresora,tecnologia,5,650000,20%,Nequi,54.0,Diana
+V0638,25-02-2026,Sofía Ramírez,Armenia,Silla ergonómica,oficina,1,720000,0.2,Tarjeta,22.0,Luisa
+V1146,2026/04/04,Pedro Ruiz,,Mouse,TECNOLOGÍA,4,45000,5%,Tarjeta,52.0,Diana
+V0802,09/01/2026,Natalia Jiménez,Armenia,Agenda, Papelería,6,25000,15%,Nequi,58.0,Andrés
+V0751,15-02-2026,Santiago Hernández,Medellín,Audífonos,Tecnología ,3,180000,10%,Tarjeta,25.0,María
+V0513,14/04/2026,Santiago Hernández, Cali ,Bolígrafo,papeleria,4,$3.500,20%,Daviplata,66.0,Felipe
+V0634,31/03/2026,Nicolás Quintero,manizales,Mouse,Tecnología,6,45000,20%,Daviplata,43.0,Felipe
+V0886,01/01/26,Andrés Martínez,Bogotá,Mouse,TECNOLOGÍA,1,$45.000,20%,Efectivo,18.0,Diana
+V1082,2026-03-26,Ana Pérez,MANIZALES,Audífonos,tecnologia,6,99999999,20%,Daviplata,60.0,Felipe
+V0966,2026-03-09,Manuela Cárdenas, Pereira,Mouse,tecnologia,2,45000,20%,Efectivo,29.0,María
+V0127,2026/01/25,Juliana Morales,PEREIRA,Cuaderno,PAPELERÍA,2,12000,5%,Efectivo,46.0,Carlos
+V0791,2026/01/07,Santiago Hernández,cali,Mouse,TECNOLOGÍA,5,$45.000,20%,Efectivo,40.0,Luisa
+V0830,08-05-2026,Gabriela Muñoz,medellin,Escritorio, Oficina ,2,580000,0.2,Tarjeta,56.0,Felipe
+V0117,2026-05-06,Felipe Arias,cartago,Silla ergonómica,oficina,6,720000,20%,Tarjeta,44.0,Felipe
+V0474,2026/06/20,Paula Sánchez,bogotá,Audífonos, Tecnologia ,6,180000,20%,Nequi,38.0,Carlos
+V0741,2026/01/06,Mateo Díaz,dosquebradas,Bolígrafo,Papelería,4,3500,20%,Efectivo,33.0,Felipe
+V1111,2026/05/13,Paula Sánchez,PEREIRA,Escritorio, Oficina ,4,580000,0.15,Efectivo,29.0,Diana
+V0058,2026-07-04,Sofía Ramírez,dosquebradas,Laptop, Tecnologia ,2,,0.15,Daviplata,34.0,Carlos
+V0604,15-06-2026,Sebastián Rojas,CARTAGO,Bolígrafo,PAPELERÍA,6,3500,0%,tarjeta,66.0,Felipe
+V0787,12/05/26,Sofía Ramírez,Bogotá,Maletín,Accesorios,3,190000,0,Daviplata,38.0,Carlos
+V0831,18/05/26,Camila Torres,,Laptop,Tecnología ,1,2500000,10%,Nequi,28.0,Luisa
+V0120,2026/05/20,Gabriela Muñoz, Cali ,Celular,TECNOLOGÍA,3,1800000,10%,Nequi,32.0,Andrés
+V0657,23/07/2026,Luisa Fernández,MANIZALES,Tablet,Tecnología ,4,1100000,0.2,Efectivo,49.0,Andrés
+V1025,17/05/2026,Valentina Rodríguez,armenia,Cuaderno,Papelería,3,12000,0%,Nequi,26.0,Felipe
+V0670,03/07/26,Nicolás Quintero,MEDELLÍN,Impresora,tecnologia,2,,10%,Transferencia,59.0,Felipe
+V0106,07-05-2026,Gabriela Muñoz,CARTAGO,Bolígrafo, Papelería,1,3500,10%,Nequi,57.0,Felipe
+V0636,09/01/2026,Sofía Ramírez,Dosquebradas,Maletín,ACCESORIOS,5,190000,10%,Efectivo,51.0,Carlos
+V0370,2026-01-20,Mariana Castro, Pereira,Maletín, Accesorios ,6,190000,0.15,Transferencia,67.0,Carlos
+V0269,30-05-2026,Natalia Jiménez,Medellín,Bolígrafo,Papelería,2,3500,20%,Efectivo,47.0,Felipe
+V0656,2026/05/20,Valentina Rodríguez,Pereira ,Cuaderno,PAPELERÍA,4,12000,20%,Daviplata,55.0,Carlos
+V0820,22/01/2026,Gabriela Muñoz,cali,Escritorio,oficina,3,$580.000,,Nequi,60.0,Diana
+V0823,18/05/2026,Paula Sánchez,MANIZALES,Impresora,Tecnología,3,650000,0%,Nequi,59.0,Felipe
+V1050,2026/07/02,Ana Pérez,Medellín,Bolígrafo,Papelería,5,3500,0.1,Tarjeta,23.0,María
+V0047,09/07/26,,Manizales,Escritorio,oficina,-1,580000,5%,Transferencia,53.0,Diana
+V0350,2026/06/25,,cartago,Audífonos,Tecnología,6,180000,0.15,Tarjeta,34.0,Luisa
+V1101,24-04-2026,Mariana Castro,DOSQUEBRADAS,Mouse,Tecnología ,3,45000,0.15,Daviplata,57.0,María
+V0877,25/03/2026,Sofía Ramírez,PEREIRA,Laptop,TECNOLOGÍA,5,2500000,15%,Daviplata,58.0,Felipe
+V0774,2026-06-16,Camila Torres,Manizales,Maletín,accesorios,2,190000,5%,Efectivo,53.0,María
+V0196,10/03/2026,Andrés Martínez,CALI,Monitor,TECNOLOGÍA,5,850000,0,Daviplata,42.0,Carlos
+V0103,2026/06/04,Santiago Hernández,Bogotá,Laptop,tecnologia,2,2500000,15%,Nequi,51.0,Felipe
+V0005,2026/06/13,Laura Gómez,CALI,Audífonos,tecnologia,6,180000,20%,Nequi,70.0,Luisa
+V0620,28/04/2026,Manuela Cárdenas,CARTAGO,Maletín,,2,190000,15%,Tarjeta,51.0,María
+V0572,07/06/26,Nicolás Quintero,Pereira ,Laptop, Tecnologia ,2,2500000,0%,Efectivo,65.0,Diana
+V0053,2026-06-09,Manuela Cárdenas,cali,Celular,TECNOLOGÍA,4,1800000,0.15,Daviplata,46.0,Carlos
+V0264,2026/04/05,Pedro Ruiz,MANIZALES,Audífonos,TECNOLOGÍA,2,180000,0%,Daviplata,47.0,Felipe
+V1162,26-01-2026,Alejandro Ortiz,PEREIRA,Teclado,Tecnología ,6,120000,0.2,Tarjeta,68.0,Luisa
+V0444,2026-06-03,Juliana Morales,MEDELLÍN,Bolígrafo,papeleria,6,0,0%,Daviplata,41.0,Luisa
+V1062,2026/01/18,Camila Torres,cali,Impresora,tecnologia,2,650000,0,Tarjeta,49.0,Diana
+V0783,03/05/2026,Mariana Castro,Dosquebradas,Agenda,Papelería,6,25000,20%,Tarjeta,62.0,Diana
+V0838,2026-03-08,Sebastián Rojas,dosquebradas,Cuaderno,PAPELERÍA,4,12000,0.2,Efectivo,59.0,Luisa
+V1160,01/06/2026,Ana Pérez, Medellín,Teclado,TECNOLOGÍA,6,120000,20%,Transferencia,33.0,Felipe
+V0692,2026-01-28,Manuela Cárdenas,dosquebradas,Celular,tecnologia,1,1800000,20%,Tarjeta,41.0,Andrés
+V0305,2026-04-27,Nicolás Quintero,Dosquebradas,Celular,Tecnología ,1,1800000,0.2,Nequi,67.0,Felipe
+V0342,2026/06/10,Diego Restrepo,pereira,Teclado,Tecnología ,4,,0.2,Transferencia,21.0,Andrés
+V0984,2026/07/28,Paula Sánchez,medellin,Agenda, Papelería,2,25000,10%,Nequi,55.0,María
+V0314,2026-01-10,Santiago Hernández, Pereira,Audífonos,Tecnología,6,180000,20%,Transferencia,70.0,Felipe
+V0150,2026-03-05,Ana Pérez,manizales,Bolígrafo,PAPELERÍA,6,3500,0%,Transferencia,65.0,Carlos
+V0125,26/05/26,Paula Sánchez,Manizales,Audífonos,Tecnología,5,180000,0%,Transferencia,51.0,María
+V1119,12/05/26,Valentina Rodríguez,ARMENIA,Audífonos,Tecnología,1,180000,0.15,Nequi,41.0,Felipe
+V0575,07-06-2026,Valentina Rodríguez,Bogota,Laptop,Tecnología ,4,2500000,10%,Efectivo,43.0,Luisa
+V0698,15-04-2026,Mariana Castro,CARTAGO,Mouse,Tecnología,0,45000,0.2,Efectivo,29.0,Carlos
+V0665,2026-01-02,Mateo Díaz,Pereira ,Maletín, Accesorios ,4,190000,20%,Nequi,25.0,Carlos
+V0051,2026/06/16,Nicolás Quintero,bogotá,Silla ergonómica,OFICINA,4,720000,10%,Nequi,23.0,Diana
+V1245,28/06/2026,,DOSQUEBRADAS,Silla ergonómica,oficina,4,720000,0.05,Efectivo,29.0,Luisa
+V0727,24-01-2026,Nicolás Quintero,cartago,Monitor,TECNOLOGÍA,5,850000,5%,Daviplata,21.0,Carlos
+V0800,03/07/2026,Nicolás Quintero,Bogotá,Cuaderno, Papelería,1,12000,15%,Transferencia,,Felipe
+V0834,27/01/26,Juan López,Cali,Impresora,TECNOLOGÍA,3,650000,0.2,Daviplata,36.0,Diana
+V0354,19-06-2026,Diego Restrepo,manizales,Cuaderno, Papelería,1,12000,0,Efectivo,0.0,María
+V1225,28-01-2026,Camila Torres,CARTAGO,Tablet,tecnologia,5,1100000,20%,Transferencia,58.0,Felipe
+V0143,2026-05-15,Valentina Rodríguez,cartago,Laptop,Tecnología,1,2500000,0%,Daviplata,58.0,Diana
+V0471,08/06/26,Sofía Ramírez,DOSQUEBRADAS,Bolígrafo,papeleria,6,3500,15%,Daviplata,30.0,Felipe
+V0883,08/03/2026,Pedro Ruiz, Pereira,Celular,Tecnología,4,1800000,0,Efectivo,60.0,María
+V0654,05/05/26,Mateo Díaz,BOGOTA,Cuaderno,Papelería,3,12000,10%,Efectivo,51.0,Luisa
+V0400,2026-01-11,Felipe Arias,cali,Impresora,TECNOLOGÍA,2,$650.000,20%,Efectivo,32.0,Carlos
+V1027,27/05/2026,Juliana Morales,Armenia,Silla ergonómica,oficina,3,720000,15%,Nequi,36.0,Andrés
+V1222,12/07/2026,Santiago Hernández,manizales,Celular,tecnologia,3,$1.800.000,5%,Efectivo,,Carlos
+V0321,2026/07/22,Pedro Ruiz,PEREIRA,Monitor, Tecnologia ,6,850000,20%,Efectivo,60.0,Luisa
+V0020,2026-03-14,Laura Gómez,dosquebradas,Audífonos,Tecnología,5,180000,5%,Tarjeta,49.0,Andrés
+V0685,2026-04-23,Juan López,MANIZALES,Agenda, Papelería,6,$25.000,0.15,Nequi,35.0,Carlos
+V0036,27/02/2026,Camila Torres,CARTAGO,Celular,Tecnología,6,1800000,0,Daviplata,,María
+V0825,2026/07/06,Sofía Ramírez, Cali ,Maletín,accesorios,1,190000,0.2,Daviplata,31.0,Diana
+V0903,2026/02/03,Manuela Cárdenas, Bogotá ,Teclado, Tecnologia ,6,120000,20%,Tarjeta,19.0,Andrés
+V0506,05/04/2026,Valentina Rodríguez, Cali ,Monitor,TECNOLOGÍA,3,850000,0.05,Transferencia,63.0,Felipe
+V0828,2026-07-01,Luisa Fernández,Manizales,Teclado,Tecnología ,4,120000,10%,Tarjeta,59.0,Felipe
+V1140,2026-02-28,Ana Pérez,cartago,Celular,Tecnología,4,1800000,0%,,69.0,Felipe
+V0408,28-06-2026,Sofía Ramírez,Medellín,Cuaderno,papeleria,6,12000,10%,Efectivo,51.0,Felipe
+V0921,2026-04-22,Felipe Arias,Dosquebradas,Impresora, Tecnologia ,5,650000,0.1,Efectivo,56.0,María
+V0818,09/03/26,Daniel Moreno,MANIZALES,Monitor,Tecnología ,6,850000,0.15,Efectivo,28.0,Luisa
+V0867,08-07-2026,,medellin,Teclado,Tecnología ,4,120000,15%,Efectivo,58.0,María
+V0538,2026/06/12,Manuela Cárdenas,pereira,Impresora,TECNOLOGÍA,6,650000,10%,Daviplata,33.0,Luisa
+V0759,2026-05-06,Juliana Morales,Manizales,Agenda,papeleria,2,25000,0.15,Nequi,,Felipe
+V1137,13/04/2026,Luisa Fernández,MEDELLÍN,Cuaderno,PAPELERÍA,2,12000,10%,Tarjeta,26.0,Carlos
+V1068,14/04/26,Paula Sánchez,cali,Tablet,Tecnología ,1,$1.100.000,5%,Efectivo,20.0,Carlos
+V0039,29/03/26,Manuela Cárdenas,MANIZALES,Cuaderno, Papelería,1,12000,15%,Nequi,47.0,Luisa
+V0176,01/02/26,Alejandro Ortiz,MANIZALES,Bolígrafo,Papelería,5,3500,15%,Transferencia,59.0,María
+V0246,16/01/2026,Alejandro Ortiz,Dosquebradas,Mochila,ACCESORIOS,6,140000,10%,Tarjeta,57.0,Luisa
+V0811,08/04/26,Pedro Ruiz,Bogota,Laptop,Tecnología ,3,2500000,0%,Transferencia,68.0,María
+V1154,16/01/26,Juan López,Bogota,Laptop, Tecnologia ,4,2500000,15%,Nequi,45.0,Luisa
+V1086,2026-02-14,Felipe Arias,Cartago,Mochila,Accesorios,3,140000,15%,Transferencia,56.0,María
+V1059,2026/06/07,Santiago Hernández,medellin,Maletín,accesorios,2,190000,0.15,Transferencia,60.0,Diana
+V0785,2026-04-23,Gabriela Muñoz,armenia,Mouse, Tecnologia ,2,45000,10%,Efectivo,36.0,María
+V0044,14/03/26,Daniel Moreno, Medellín,Escritorio,Oficina,1,580000,5%,Tarjeta,26.0,Felipe
+V0490,21/01/26,Carlos Vargas,Dosquebradas,Silla ergonómica,Oficina,6,720000,0%,Tarjeta,25.0,Luisa
+V0155,25-05-2026,Daniel Moreno,,Mouse, Tecnologia ,2,45000,20%,Efectivo,64.0,Diana
+V0639,12/01/26,Ana Pérez,cartago,Impresora,tecnologia,3,650000,15%,Nequi,33.0,Carlos
+V0962,2026/01/10,Sebastián Rojas,Bogota,Audífonos,TECNOLOGÍA,1,180000,0%,Tarjeta,70.0,Luisa
+V0663,2026-03-17,,BOGOTA,Maletín,Accesorios,1,190000,0.15,Transferencia,51.0,Felipe
+V0854,2026/04/24,Paula Sánchez, Medellín,Teclado,Tecnología,1,120000,0%,Nequi,19.0,Diana
+V0943,2026-05-01,Juan López,MEDELLÍN,Laptop,TECNOLOGÍA,2,2500000,0%,Tarjeta,70.0,Carlos
+V0288,27/03/26,Valentina Rodríguez,MEDELLÍN,Agenda,PAPELERÍA,3,25000,10%,Transferencia,44.0,Diana
+V0626,2026/03/03,Sofía Ramírez, Medellín,Cuaderno,papeleria,1,$12.000,0.15,Daviplata,70.0,Luisa
+V1199,2026-05-28,Camila Torres,PEREIRA,Mouse,tecnologia,6,45000,15%,Nequi,40.0,María
+V0686,2026/04/08,Ana Pérez,armenia,Mochila,accesorios,4,140000,15%,Tarjeta,21.0,Andrés
+V1248,06-07-2026,Natalia Jiménez,Bogotá,Escritorio, Oficina ,1,580000,0.2,tarjeta,19.0,Felipe
+V0990,2026/04/06,Daniel Moreno,Manizales,Cuaderno,Papelería,1,12000,20%,Daviplata,25.0,María
+V0570,15-03-2026,Sofía Ramírez,Bogotá,Silla ergonómica,Oficina,3,720000,15%,Efectivo,58.0,Carlos
+V0082,2026-01-28,Luisa Fernández,Bogota,Mochila,accesorios,2,140000,15%,Transferencia,39.0,Andrés
+V0735,2026-03-31,Andrés Martínez,ARMENIA,Silla ergonómica,Oficina,1,720000,,Efectivo,23.0,Carlos
+V0793,17/07/2026,Pedro Ruiz,CARTAGO,Monitor,Tecnología ,4,850000,0.2,Transferencia,64.0,Diana
+V0018,2026/07/12,Laura Gómez,CALI,Maletín,ACCESORIOS,1,190000,0%,Efectivo,31.0,Luisa
+V0128,2026/01/31,Carlos Vargas,cali,Cuaderno,papeleria,4,12000,0.1,Nequi,67.0,María
+V0323,05-01-2026,Ana Pérez,Manizales,Teclado,tecnologia,3,120000,0.1,Transferencia,35.0,Luisa
+V0256,2026/06/19,Nicolás Quintero,Armenia,Mochila,accesorios,1,140000,0.15,Transferencia ,52.0,Carlos
+V1049,2026/04/17,Diego Restrepo,ARMENIA,Silla ergonómica, Oficina ,4,720000,20%,Transferencia,39.0,Andrés
+V0983,,Laura Gómez, Medellín,Agenda,Papelería,2,25000,15%,Nequi,44.0,María
+V0928,2026-06-05,Laura Gómez,Dosquebradas,Mochila,Accesorios,3,140000,20%,Transferencia,63.0,Luisa
+V0981,2026-05-30,Manuela Cárdenas,PEREIRA,Silla ergonómica,oficina,2,720000,20%,Efectivo,46.0,María
+V1103,04-02-2026,Gabriela Muñoz,PEREIRA,Escritorio,Oficina,6,$580.000,20%,Tarjeta,48.0,Luisa
+V0191,25/07/26,Mariana Castro,Bogotá,Mouse,Tecnología,2,99999999,0%,Efectivo,58.0,Diana
+V0116,25/07/26,Alejandro Ortiz,MANIZALES,Celular,TECNOLOGÍA,4,1800000,20%,Daviplata,57.0,Felipe
+V0993,01/02/2026,Juliana Morales,,Escritorio,Oficina,2,580000,15%,Daviplata,60.0,Diana
+V1246,11/07/2026,Natalia Jiménez,,Tablet,tecnologia,1,1100000,20%,Nequi,69.0,Felipe
+V1011,23-07-2026,Juan López,cali,Laptop,TECNOLOGÍA,5,2500000,0.15,Daviplata,53.0,Diana
+V0607,03/03/2026,Manuela Cárdenas,pereira,Laptop,TECNOLOGÍA,3,$2.500.000,5%,Tarjeta,66.0,Felipe
+V0181,2026/02/05,Alejandro Ortiz,Bogotá,Agenda,PAPELERÍA,6,25000,0,Nequi,64.0,Andrés
+V0302,17/07/2026,Gabriela Muñoz,bogotá,Celular, Tecnologia ,1,1800000,0.05,Efectivo,66.0,Andrés
+V0497,2026-03-27,Juan López,dosquebradas,Mochila,,5,140000,0.05,Efectivo,58.0,Carlos
+V0349,01-06-2026,Juliana Morales,Medellín,Escritorio, Oficina ,6,580000,15%,Tarjeta,60.0,Luisa
+V1102,2026/05/29,Juliana Morales,manizales,Agenda,Papelería,4,25000,20%,Tarjeta,62.0,Carlos
+V0037,29/06/26,Ana Pérez,MANIZALES,Impresora, Tecnologia ,3,650000,10%,Nequi,70.0,Diana
+V0745,04/02/26,Ana Pérez,cali,Bolígrafo,papeleria,4,3500,10%,Transferencia,43.0,Andrés
+V1151,2026/04/01,Nicolás Quintero,CALI,Laptop,Tecnología,6,2500000,20%,Efectivo,22.0,Diana
+V1056,2026/06/20,Mateo Díaz, Medellín,Mouse,tecnologia,4,45000,5%,Daviplata,65.0,Carlos
+V0518,2026-04-05,Natalia Jiménez,cali,Laptop,tecnologia,5,2500000,,Transferencia,25.0,Luisa
+V0373,01-07-2026,Pedro Ruiz,armenia,Silla ergonómica,OFICINA,4,720000,0.15,Nequi,52.0,Carlos
+V0046,2026/03/05,Juliana Morales,dosquebradas,Mouse,Tecnología ,1,45000,20%,Daviplata,51.0,Carlos
+V0477,2026/05/24,Carlos Vargas,manizales,Teclado, Tecnologia ,3,120000,0%,Tarjeta,20.0,María
+V0158,11/07/2026,Carlos Vargas, Pereira,Silla ergonómica,Oficina,5,720000,20%,Transferencia,67.0,Luisa
+V1114,27-06-2026,Mariana Castro,MANIZALES,Silla ergonómica,OFICINA,2,720000,0.2,Transferencia,35.0,Diana
+V0172,2026/02/10,Laura Gómez,armenia,Mouse,Tecnología,4,-50000,15%,Transferencia,59.0,Diana
+V0017,02/06/2026,Mariana Castro,Dosquebradas,Escritorio,OFICINA,1,580000,20%,Transferencia ,34.0,Andrés
+V0512,20/05/26,Camila Torres,Manizales,Laptop,TECNOLOGÍA,2,2500000,0.1,Transferencia,61.0,Andrés
+V0049,2026/02/12,Luisa Fernández,cartago,Laptop,Tecnología,3,2500000,20%,Daviplata,62.0,Carlos
+V0192,27-07-2026,Alejandro Ortiz,dosquebradas,Impresora,Tecnología,2,650000,0%,Nequi,47.0,Diana
+V0547,2026-04-13,Alejandro Ortiz,dosquebradas,Impresora,Tecnología ,6,650000,0.2,Efectivo,48.0,Diana
+V0516,2026-07-24,Sofía Ramírez,CARTAGO,Cuaderno,PAPELERÍA,5,12000,0.2,Tarjeta,22.0,María
+V0659,16/07/2026,Juan López,cartago,Cuaderno,papeleria,5,12000,5%,Nequi,45.0,Luisa
+V1046,06-07-2026,Sofía Ramírez,Pereira,Monitor,Tecnología ,2,850000,10%,Transferencia,51.0,María
+V1020,2026-02-19,Andrés Martínez,,Mochila,Accesorios,3,140000,15%,Tarjeta,50.0,Diana
+V1070,06/01/26,Daniel Moreno,Dosquebradas,Audífonos,Tecnología,5,180000,15%,Daviplata,60.0,María
+V0960,05-04-2026,Alejandro Ortiz,PEREIRA,Cuaderno, Papelería,2,12000,0%,Tarjeta,60.0,María
+V1201,2026-06-15,Felipe Arias,medellin,Escritorio, Oficina ,4,580000,15%,Nequi,45.0,Diana
+V0284,19-04-2026,,Pereira,Bolígrafo,papeleria,4,3500,0.2,Nequi,47.0,Felipe
+V0798,2026-05-01,Ana Pérez,Armenia,Maletín,Accesorios,1,$190.000,5%,Nequi,56.0,Carlos
+V0226,30/03/26,Felipe Arias,armenia,Maletín,accesorios,3,190000,5%,Transferencia,20.0,Luisa
+V0027,28/06/26,Ana Pérez,manizales,Tablet,tecnologia,3,1100000,20%,Nequi,,Felipe
+V0438,17/02/2026,Luisa Fernández, Medellín,Cuaderno,PAPELERÍA,6,12000,15%,Nequi,38.0,Luisa
+V1240,21-03-2026,Camila Torres,Medellín,Agenda,papeleria,6,25000,0%,Efectivo,25.0,Carlos
+V0230,05/06/2026,Gabriela Muñoz,cartago,Monitor,tecnologia,2,850000,10%,Tarjeta,28.0,Carlos
+V0038,2026-01-20,Carlos Vargas,DOSQUEBRADAS,Monitor,TECNOLOGÍA,5,850000,,Tarjeta,25.0,Felipe
+V0750,2026/06/07,Mariana Castro,dosquebradas,Mochila,ACCESORIOS,6,140000,0.15,Tarjeta,47.0,Felipe
+V0470,24/06/2026,Gabriela Muñoz,dosquebradas,Maletín,accesorios,6,190000,20%,Daviplata,70.0,Felipe
+V1091,24-01-2026,Diego Restrepo, Medellín,Tablet, Tecnologia ,6,1100000,0,Daviplata,35.0,Diana
+V0931,2026-04-22,Santiago Hernández,cartago,Monitor, Tecnologia ,6,850000,5%,Nequi,68.0,Luisa
+V0688,10/07/26,Natalia Jiménez,Pereira ,Impresora,TECNOLOGÍA,2,650000,5%,Transferencia,33.0,Andrés
+V0640,2026/05/17,Carlos Vargas,Dosquebradas,Maletín,ACCESORIOS,5,$190.000,0%,Nequi,69.0,Felipe
+V1119,12/05/26,Valentina Rodríguez,ARMENIA,Audífonos,Tecnología,1,180000,0.15,Nequi,41.0,Felipe
+V1066,20-02-2026,Laura Gómez, Cali ,Audífonos,Tecnología,4,180000,10%,,30.0,Carlos
+V1157,28/01/2026,Daniel Moreno,Armenia,Audífonos,Tecnología,4,180000,20%,Tarjeta,54.0,Diana
+V0801,2026/03/05,Camila Torres,armenia,Mouse,TECNOLOGÍA,2,45000,0.1,Efectivo,60.0,Felipe
+V0161,2026-04-21,Juliana Morales,Bogota,Cuaderno,papeleria,4,12000,0%,Transferencia,18.0,Andrés
+V0957,2026-07-15,Carlos Vargas,BOGOTA,Mouse,tecnologia,4,45000,10%,Nequi,25.0,María
+V0822,08/03/2026,Sofía Ramírez,cali,Agenda,Papelería,6,25000,0.1,Daviplata,33.0,Diana
+V1084,10/01/2026,Manuela Cárdenas,bogotá,Silla ergonómica, Oficina ,5,720000,0.1,Daviplata,68.0,Luisa
+V0878,2026/05/11,Carlos Vargas,Armenia,Laptop, Tecnologia ,1,2500000,5%,Transferencia,28.0,Carlos
+V0914,12/06/26,Sofía Ramírez,MEDELLÍN,Bolígrafo,Papelería,3,3500,5%,Transferencia,63.0,Carlos
+V0153,2026/03/05,Paula Sánchez,armenia,Audífonos,Tecnología ,6,180000,15%,Efectivo,43.0,Andrés
+V1166,2026/03/17,Mateo Díaz,MANIZALES,Escritorio,oficina,5,580000,5%,Efectivo,27.0,Diana
+V0510,12-07-2026,Sebastián Rojas,armenia,Teclado,TECNOLOGÍA,1,120000,10%,Transferencia,57.0,Luisa
+V1071,04/04/26,Felipe Arias,Armenia,Agenda, Papelería,3,$25.000,15%,Tarjeta,0.0,Carlos
+V0104,2026-05-24,Camila Torres, Bogotá ,Tablet,tecnologia,1,1100000,10%,Nequi,62.0,Carlos
+V0587,2026-04-23,Luisa Fernández,CARTAGO,Teclado,Tecnología ,5,120000,15%,Transferencia,18.0,Andrés
+V1129,2026-04-05,Natalia Jiménez,MANIZALES,Tablet, Tecnologia ,3,1100000,0,,200.0,Felipe
+V0054,15/04/26,Gabriela Muñoz,manizales,Silla ergonómica, Oficina ,1,720000,5%,Nequi,27.0,María
+V0152,24-05-2026,Mariana Castro,dosquebradas,Agenda, Papelería,2,25000,20%,Tarjeta,35.0,Andrés
+V0404,26-05-2026,Diego Restrepo,Cartago,Agenda,Papelería,2,25000,5%,Tarjeta,70.0,María
+V0208,13/07/26,Santiago Hernández,cartago,Tablet,Tecnología,5,1100000,5%,Nequi,52.0,Diana
+V1207,29-01-2026,Alejandro Ortiz,pereira,Mouse,TECNOLOGÍA,6,45000,20%,Transferencia,31.0,Carlos
+V0009,16/05/26,Laura Gómez, Bogotá ,Bolígrafo,Papelería,1,$3.500,0.2,Daviplata,69.0,María
+V1015,09/05/2026,Daniel Moreno, Medellín,Bolígrafo, Papelería,3,3500,20%,Daviplata,30.0,Felipe
+V1061,06-01-2026,Felipe Arias,Cartago,Monitor,tecnologia,5,850000,0.1,Daviplata,57.0,María
+V0453,22-04-2026,Luisa Fernández,BOGOTA,Teclado, Tecnologia ,6,120000,15%,Nequi,59.0,Carlos
+V0254,2026/01/14,Ana Pérez,DOSQUEBRADAS,Mouse,Tecnología,2,45000,10%,Daviplata,42.0,Carlos
+V0897,2026/01/18,Valentina Rodríguez,,Mouse,Tecnología ,3,45000,15%,Daviplata,62.0,Luisa
+V1116,18/07/26,Diego Restrepo,DOSQUEBRADAS,Impresora,tecnologia,4,650000,5%,Tarjeta,49.0,Luisa
+V0881,15-07-2026,Ana Pérez,ARMENIA,Silla ergonómica,Oficina,3,0,15%,Daviplata,55.0,Andrés
+V1205,2026/04/29,Laura Gómez,Dosquebradas,Silla ergonómica, Oficina ,4,720000,10%,Transferencia,54.0,Luisa
+V0624,08/05/2026,,CARTAGO,Mouse, Tecnologia ,6,45000,20%,Tarjeta,20.0,María
+V0346,21/03/26,Daniel Moreno,CALI,Laptop,tecnologia,1,2500000,20%,Efectivo,67.0,Andrés
+V1097,18/03/26,Manuela Cárdenas,medellin,Mouse, Tecnologia ,1,45000,0.05,Tarjeta,33.0,María
+V0263,03-03-2026,Carlos Vargas,pereira,Cuaderno, Papelería,5,12000,5%,Efectivo,54.0,Carlos
+V0151,2026/01/23,Natalia Jiménez,PEREIRA,Teclado, Tecnologia ,2,120000,15%,Nequi,40.0,Carlos
+V0473,2026-01-16,Paula Sánchez,Armenia,Agenda,papeleria,3,25000,10%,Transferencia,25.0,Andrés
+V0641,2026-04-11,Camila Torres,BOGOTA,Laptop, Tecnologia ,3,2500000,0.15,Efectivo,57.0,María
+V0462,01-05-2026,Camila Torres,MANIZALES,Monitor, Tecnologia ,3,850000,15%,Nequi,56.0,Diana
+V1202,08/01/2026,Manuela Cárdenas,Manizales,Bolígrafo,Papelería,4,3500,10%,Daviplata,52.0,Carlos
+V0551,08/03/2026,Sofía Ramírez,DOSQUEBRADAS,Monitor,Tecnología,1,850000,0.1,Transferencia,65.0,Carlos
+V0929,24/07/26,Juliana Morales,dosquebradas,Silla ergonómica, Oficina ,4,720000,15%,Efectivo,59.0,Felipe
+V0489,2026-06-19,Ana Pérez, Medellín,Monitor,Tecnología ,-1,850000,0.1,Nequi,26.0,Luisa
+V1150,2026-02-16,Paula Sánchez,cali,Maletín, Accesorios ,3,190000,20%,Daviplata,36.0,Felipe
+V0147,12-01-2026,Laura Gómez,Manizales,Audífonos,Tecnología ,1,180000,0.1,Efectivo,0.0,Felipe
+V0403,23-01-2026,Manuela Cárdenas,manizales,Escritorio,oficina,2,580000,5%,Daviplata,55.0,Luisa
+V0955,2026-07-05,Camila Torres,Manizales,Silla ergonómica,OFICINA,3,720000,5%,Transferencia,59.0,Luisa
+V1197,2026-04-13,Sofía Ramírez,manizales,Teclado,,6,120000,0%,Transferencia,64.0,Andrés
+V0660,26/01/2026,Mariana Castro, Medellín,Tablet,Tecnología ,3,1100000,0.1,Efectivo,69.0,Andrés
+V0464,02/03/26,Juan López,BOGOTA,Audífonos, Tecnologia ,2,$180.000,0.2,Tarjeta,40.0,Felipe
+V0187,24/01/2026,Manuela Cárdenas,Dosquebradas,Audífonos,Tecnología ,1,180000,5%,Daviplata,65.0,Carlos
+V0609,25/01/26,Juan López,Manizales,Cuaderno,papeleria,3,12000,0.15,Nequi,19.0,Carlos
+V0144,07/06/26,Gabriela Muñoz,Dosquebradas,Cuaderno,Papelería,4,0,15%,Tarjeta,35.0,Felipe
+V0752,07/02/26,Juliana Morales,Cartago,Agenda,Papelería,6,25000,15%,Transferencia,33.0,Andrés
+V0982,2026-07-08,Pedro Ruiz,CALI,Monitor,TECNOLOGÍA,1,850000,5%,Nequi,60.0,María
+V0198,01/01/2026,Pedro Ruiz,armenia,Impresora,TECNOLOGÍA,3,650000,0.2,Nequi,38.0,Felipe
+V0884,26/05/2026,Juliana Morales,Manizales,Bolígrafo,Papelería,6,3500,0.1,Transferencia,41.0,Carlos
+V0280,17-07-2026,,cali,Impresora,TECNOLOGÍA,2,650000,10%,Nequi,19.0,Andrés
+V0294,2026/01/23,Mateo Díaz, Pereira,Bolígrafo, Papelería,4,3500,10%,Transferencia,70.0,Carlos
+V1158,09/01/2026,Ana Pérez,Medellín,Bolígrafo,Papelería,5,3500,0%,Nequi,200.0,
+V0401,2026/05/18,Natalia Jiménez, Medellín,Mouse,TECNOLOGÍA,4,45000,0%,Nequi,50.0,Andrés
+V0123,16-04-2026,Mateo Díaz,CALI,Mouse,TECNOLOGÍA,3,45000,15%,Transferencia,28.0,Diana
+V0203,2026-05-03,Laura Gómez,Armenia,Mochila, Accesorios ,5,$140.000,0.05,Efectivo,36.0,Diana
+V0836,28/06/26,Manuela Cárdenas,Pereira,Cuaderno, Papelería,1,12000,5%,Efectivo,22.0,Diana
+V0247,17-04-2026,Santiago Hernández,ARMENIA,Tablet,Tecnología ,6,$1.100.000,10%,Daviplata,30.0,María
+V1212,14/07/26,Carlos Vargas,CALI,Laptop, Tecnologia ,5,2500000,15%,Transferencia,20.0,Andrés
+V1200,04/01/26,Santiago Hernández,DOSQUEBRADAS,Cuaderno, Papelería,1,12000,20%,Nequi,27.0,Felipe
+V0385,21-02-2026,Carlos Vargas, Medellín,Tablet,tecnologia,4,1100000,5%,Transferencia,31.0,Andrés
+V0855,2026-03-30,Nicolás Quintero,CALI,Escritorio,OFICINA,3,$580.000,0%,Tarjeta,37.0,Andrés
+V0220,23/03/26,Gabriela Muñoz,CALI,Cuaderno,papeleria,6,12000,5%,Daviplata,44.0,Diana
+V0642,2026-02-18,Juan López,Manizales,Mouse,TECNOLOGÍA,6,45000,10%,Transferencia,21.0,Diana
+V0002,2026/06/16,Mariana Castro,medellin,Agenda,PAPELERÍA,6,25000,0.2,,,Carlos
+V0113,08/05/26,Manuela Cárdenas,cartago,Impresora,Tecnología ,3,-50000,15%,Tarjeta,40.0,Carlos
+V0699,21/04/26,Santiago Hernández,Manizales,Mochila,ACCESORIOS,1,140000,0.05,Transferencia,45.0,Felipe
+V1219,19/03/26,Mariana Castro,dosquebradas,Laptop,TECNOLOGÍA,2,2500000,0.1,Efectivo,,Luisa
+V0952,21-05-2026,Sebastián Rojas,CARTAGO,Escritorio,oficina,3,580000,20%,Transferencia,55.0,Felipe
+V1148,2026-06-29,Nicolás Quintero,Medellín,Cuaderno,Papelería,2,12000,0.05,Efectivo,38.0,María
+V0442,18/02/26,Nicolás Quintero,Cartago,Cuaderno,Papelería,4,12000,5%,tarjeta,57.0,María
+V0664,26-06-2026,Camila Torres,cali,Impresora,TECNOLOGÍA,3,650000,0%,Transferencia,62.0,Diana
+V1165,14-02-2026,Andrés Martínez,Pereira,Impresora,tecnologia,5,650000,10%,Daviplata,50.0,María
+V0318,24/03/2026,Paula Sánchez,pereira,Monitor,tecnologia,3,850000,20%,Transferencia,70.0,María
+V0649,2026-05-07,Juliana Morales,Manizales,Escritorio,Oficina,5,$580.000,15%,Daviplata,25.0,Carlos
+V0710,19/06/2026,Ana Pérez,manizales,Celular,Tecnología ,1,1800000,10%,Efectivo,69.0,Luisa
+V0973,21-07-2026,Mariana Castro, Medellín,Impresora,tecnologia,5,650000,0%,Nequi,62.0,María
+V0628,2026/02/02,Valentina Rodríguez,Bogotá,Bolígrafo,Papelería,5,3500,0%,Nequi,34.0,Carlos
+V0633,2026-01-08,Alejandro Ortiz,MEDELLÍN,Escritorio,OFICINA,5,580000,0%,Nequi,31.0,María
+V1244,12/01/2026,Sebastián Rojas,Medellín,Cuaderno,Papelería,3,12000,5%,Nequi,18.0,Luisa
+V1176,05/07/2026,Alejandro Ortiz,,Monitor,tecnologia,3,850000,0%,Transferencia,53.0,Diana
+V0796,13-05-2026,Andrés Martínez,Dosquebradas,Teclado,tecnologia,2,120000,0.05,Daviplata,65.0,María
+V0646,03/02/2026,Nicolás Quintero,MANIZALES,Maletín,Accesorios,2,190000,10%,Efectivo,43.0,Luisa
+V1013,07-03-2026,Nicolás Quintero,MANIZALES,Impresora,Tecnología ,5,650000,0.05,Daviplata,44.0,Diana
+V0557,11/07/2026,Juan López,BOGOTA,Bolígrafo, Papelería,2,3500,0,Efectivo,27.0,Carlos
+V0682,2026-02-02,Nicolás Quintero,Bogotá,Laptop,TECNOLOGÍA,4,2500000,0.05,Daviplata,36.0,María
+V0578,06-05-2026,Camila Torres,Bogotá,Tablet,Tecnología,5,1100000,0.15,Efectivo,43.0,María
+V1110,13-03-2026,Juan López,Pereira ,Teclado,Tecnología,6,120000,0,Tarjeta,34.0,Luisa
+V0525,09/02/26,Manuela Cárdenas, Bogotá ,Audífonos,TECNOLOGÍA,4,180000,10%,Nequi,46.0,Carlos
+V1060,29-06-2026,Alejandro Ortiz,Cartago,Celular,tecnologia,2,1800000,0.2,Nequi,35.0,Andrés
+V0541,2026/06/28,Alejandro Ortiz,Dosquebradas,Tablet,tecnologia,3,1100000,0%,Transferencia,62.0,María
+V0749,2026-04-06,Camila Torres,PEREIRA,Silla ergonómica,OFICINA,4,720000,10%,Efectivo,45.0,Felipe
+V1179,2026/05/25,Camila Torres,bogotá,Celular,TECNOLOGÍA,4,1800000,10%,Transferencia,69.0,Andrés
+V0485,2026-05-22,Santiago Hernández,MEDELLÍN,Impresora,Tecnología ,4,650000,0,Nequi,,Luisa
+V0096,03/03/26,Diego Restrepo, Pereira,Celular, Tecnologia ,5,1800000,15%,Tarjeta,51.0,Diana
+V1021,2026-05-12,Nicolás Quintero,CALI,Mochila,Accesorios,4,140000,20%,Tarjeta,66.0,Carlos
+V0564,04/06/2026,Natalia Jiménez,Cartago,Teclado,TECNOLOGÍA,5,120000,5%,Nequi,53.0,Diana
+V0743,22/07/2026,Valentina Rodríguez,Dosquebradas,Audífonos,tecnologia,2,180000,10%,Efectivo,29.0,Diana
+V0864,2026-03-03,Felipe Arias,Dosquebradas,Agenda, Papelería,5,25000,0,Tarjeta,22.0,Diana
+V0892,2026/07/28,,cartago,Teclado,Tecnología ,6,120000,15%,Efectivo,34.0,Carlos
+V1039,24/06/26,,CARTAGO,Teclado,Tecnología,6,120000,5%,Tarjeta,41.0,Diana
+V0207,10/04/26,Juan López,Medellín,Silla ergonómica,Oficina,2,720000,10%,Transferencia,47.0,Felipe
+V0393,27/02/26,Pedro Ruiz,CARTAGO,Bolígrafo,PAPELERÍA,3,3500,10%,Nequi,41.0,
+V0795,2026/06/16,Juan López,medellin,Tablet,tecnologia,3,1100000,5%,Daviplata,150.0,Carlos
+V0871,05/03/26,Sofía Ramírez,cali,Tablet,TECNOLOGÍA,2,1100000,10%,Daviplata,48.0,María
+V0398,28-05-2026,Diego Restrepo,MEDELLÍN,Celular,Tecnología,2,1800000,15%,Tarjeta,38.0,Luisa
+V0767,2026-07-22, Sofía Ramírez ,Cartago,Bolígrafo,PAPELERÍA,1,3500,5%,Transferencia,48.0,Andrés
+V1169,06/03/26,Pedro Ruiz,cali,Tablet,Tecnología,4,99999999,5%,Tarjeta,46.0,Diana
+V1029,17/02/2026,Mariana Castro,Dosquebradas,Maletín,ACCESORIOS,1,190000,0,Nequi,55.0,Diana
+V0643,22-07-2026,Manuela Cárdenas,CARTAGO,Escritorio,Oficina,4,580000,10%,Daviplata,38.0,Felipe
+V0613,2026/02/05,Luisa Fernández,armenia,Cuaderno,Papelería,1,12000,20%,Nequi,57.0,Felipe
+V0961,25/01/26,Juan López,Armenia,Mochila,ACCESORIOS,5,140000,20%,Daviplata,53.0,Luisa
+V0726,25/05/26,Nicolás Quintero,Cartago,Audífonos,tecnologia,1,180000,5%,Tarjeta,67.0,María
+V0684,30/03/2026,Pedro Ruiz,ARMENIA,Laptop,tecnologia,4,$2.500.000,0.2,Tarjeta,51.0,María
+V0099,2026/04/12,Pedro Ruiz,armenia,Silla ergonómica, Oficina ,5,720000,15%,Nequi,67.0,Luisa
+V0805,02/07/2026,Natalia Jiménez,cali,Silla ergonómica,oficina,3,720000,0.05,Tarjeta,23.0,María
+V0407,11/03/2026,Pedro Ruiz,MEDELLÍN,Laptop,TECNOLOGÍA,3,2500000,15%,Transferencia,58.0,Andrés
+V0503,22-07-2026,Alejandro Ortiz,ARMENIA,Impresora, Tecnologia ,1,$650.000,15%,Efectivo,32.0,Luisa
+V1072,27/04/2026,Valentina Rodríguez,PEREIRA,Monitor,Tecnología,1,850000,5%,Efectivo,41.0,Carlos
+V1057,06-02-2026,Juan López, Medellín,Celular,Tecnología,5,1800000,0%,Nequi,60.0,María
+V0930,2026/05/08,Carlos Vargas,PEREIRA,Mochila, Accesorios ,2,140000,0%,Efectivo,56.0,Carlos
+V0780,2026/03/25,Carlos Vargas,MEDELLÍN,Teclado,,5,120000,15%,Transferencia,34.0,Diana
+V0201,2026-01-27,Gabriela Muñoz,armenia,Escritorio,Oficina,4,$580.000,5%,Transferencia,38.0,María
+V0135,2026-04-25,Camila Torres,Manizales,Laptop,Tecnología ,5,$2.500.000,0%,Transferencia,52.0,Felipe
+V1052,04/05/26,Luisa Fernández,dosquebradas,Celular,Tecnología ,1,1800000,20%,Daviplata,24.0,Diana
+V0041,05/05/2026,Laura Gómez, Cali ,Teclado, Tecnologia ,2,120000,10%,Daviplata,35.0,María
+V1018,06-06-2026,Nicolás Quintero,Manizales,Escritorio, Oficina ,4,580000,10%,Daviplata,66.0,Luisa
+V0231,23/01/2026,Paula Sánchez,manizales,Cuaderno,,1,12000,20%,Tarjeta,64.0,Carlos
+V0379,24/03/2026,Paula Sánchez,Cali,Teclado,tecnologia,2,120000,0%,Tarjeta,44.0,Diana
+V0289,2026/05/05,Sebastián Rojas,Dosquebradas,Silla ergonómica,Oficina,6,720000,15%,Efectivo,27.0,Andrés
+V0419,06/05/2026,,Armenia,Audífonos,TECNOLOGÍA,4,180000,5%,Daviplata,22.0,Felipe
+V0392,2026-04-04,Manuela Cárdenas,CARTAGO,Laptop,Tecnología ,3,2500000,0.05,Efectivo,26.0,Diana
+V0593,2026-06-15,Camila Torres,Cali,Maletín,ACCESORIOS,0,190000,0%,Efectivo,24.0,Diana
+V1163,17-07-2026,Gabriela Muñoz,Cartago,Mouse,Tecnología,1,45000,20%,Nequi,64.0,Felipe
+V1087,21-04-2026,Juan López,Medellín,Maletín,ACCESORIOS,6,190000,0.05,Tarjeta,52.0,Felipe
+V0648,2026/05/09,Valentina Rodríguez,Dosquebradas,Tablet,Tecnología ,4,,20%,Transferencia,42.0,Felipe
+V1153,17/06/26,Sofía Ramírez,Medellín,Monitor,TECNOLOGÍA,3,850000,20%,Nequi,66.0,Carlos
+V0521,2026/04/21,Manuela Cárdenas,MANIZALES,Agenda,Papelería,4,25000,15%,Efectivo,20.0,Luisa
+V0065,28/03/26,Carlos Vargas, Bogotá ,Agenda,Papelería,1,25000,,Transferencia,64.0,Felipe
+V0015,2026/04/10,Valentina Rodríguez,Pereira ,Laptop,Tecnología ,3,2500000,0.15,Tarjeta,60.0,Diana
+V1181,19/03/26,Pedro Ruiz,Manizales,Tablet, Tecnologia ,4,1100000,0.05,Tarjeta,35.0,Andrés
+V1065,2026-01-21,Ana Pérez,medellin,Cuaderno,PAPELERÍA,5,12000,0.2,Tarjeta,31.0,Carlos
+V0493,25/05/2026,Luisa Fernández,Manizales,Agenda,Papelería,6,$25.000,20%,Daviplata,22.0,Felipe
+V0380,07-04-2026,Gabriela Muñoz,CARTAGO,Escritorio,oficina,2,580000,0,Efectivo,63.0,María
+V0188,19/06/2026,Laura Gómez,cali,Tablet,Tecnología ,2,1100000,5%,Tarjeta,65.0,María
+V0764,2026-01-08,Felipe Arias,Armenia,Maletín,accesorios,2,190000,0.2,Nequi,68.0,Diana
+V0217,2026-05-27,Mateo Díaz,medellin,Teclado,Tecnología ,2,120000,5%,Tarjeta,19.0,María
+V0792,01/03/2026,Natalia Jiménez, Pereira,Audífonos, Tecnologia ,2,180000,10%,Nequi,42.0,María
+V1077,2026-04-16,Luisa Fernández,BOGOTA,Bolígrafo, Papelería,5,3500,5%,Tarjeta,28.0,María
+V0879,13/04/2026,Pedro Ruiz,Manizales,Impresora,tecnologia,5,650000,0%,Tarjeta,70.0,Diana
+V0338,2026-03-12, Sebastián Rojas ,manizales,Agenda,PAPELERÍA,3,25000,20%,Transferencia,54.0,Felipe
+V0720,02-01-2026,Luisa Fernández,Bogotá,Mochila, Accesorios ,3,140000,5%,Tarjeta,59.0,Luisa
+V0296,2026/06/10,Sebastián Rojas,Cali,Tablet,tecnologia,2,1100000,20%,Efectivo,36.0,Andrés
+V1017,2026/02/26,Ana Pérez,armenia,Escritorio,Oficina,3,580000,20%,Efectivo,60.0,Diana
+V0456,22/03/26,Mariana Castro, Bogotá ,Audífonos,Tecnología ,5,180000,15%,Tarjeta,69.0,Carlos
+V0816,2026/07/29,Andrés Martínez,CALI,Celular, Tecnologia ,6,1800000,0.1,Transferencia,38.0,María
+V0270,10/05/26, Natalia Jiménez , Bogotá ,Mochila,accesorios,6,140000,0.15,Daviplata,56.0,Felipe
+V0996,2026/07/03,Alejandro Ortiz,MEDELLÍN,Tablet, Tecnologia ,2,1100000,20%,Transferencia,27.0,María
+V0202,27-06-2026,Mateo Díaz,dosquebradas,Monitor,Tecnología ,1,850000,10%,Nequi,64.0,Carlos
+V0162,2026/04/28,Carlos Vargas,CARTAGO,Monitor,tecnologia,1,850000,10%,Transferencia,42.0,Felipe
+V0730,2026/04/06,Luisa Fernández,Pereira ,Tablet,TECNOLOGÍA,2,1100000,0%,Tarjeta,39.0,Diana
+V0402,14-03-2026,Daniel Moreno, Medellín,Laptop, Tecnologia ,3,2500000,10%,Efectivo,46.0,Felipe
+V0703,2026/05/05, Felipe Arias ,bogotá,Audífonos,Tecnología ,4,180000,0.05,Daviplata,66.0,María
+V1130,04/01/26,Felipe Arias,Dosquebradas,Escritorio, Oficina ,3,580000,20%,Daviplata,27.0,Luisa
+V0566,2026/01/07,Mariana Castro,medellin,Tablet,TECNOLOGÍA,5,1100000,5%,Tarjeta,22.0,Carlos
+V1022,16/05/2026,Manuela Cárdenas, Cali ,Tablet, Tecnologia ,1,1100000,20%,Efectivo,65.0,Carlos
+V1026,21/01/2026,Sebastián Rojas,CALI,Maletín,accesorios,0,190000,0%,Nequi,23.0,Luisa
+V1105,06/04/2026,Daniel Moreno,Manizales,Celular,Tecnología,5,$1.800.000,0%,Transferencia,59.0,Luisa
+V0206,03-06-2026,Mateo Díaz,CARTAGO,Cuaderno,PAPELERÍA,4,12000,0.05,Tarjeta,48.0,Diana
+V0035,04-02-2026,Mariana Castro, Bogotá ,Tablet,Tecnología,4,1100000,5%,Daviplata,66.0,Carlos
+V0776,03/06/26,Paula Sánchez,PEREIRA,Monitor, Tecnologia ,4,850000,10%,Daviplata,46.0,Andrés
+V0509,13-04-2026,Juliana Morales,MEDELLÍN,Escritorio,OFICINA,6,580000,20%,Daviplata,33.0,Carlos
+V0951,24/02/26,Felipe Arias, Cali ,Monitor,Tecnología,2,850000,10%,Nequi,43.0,Diana
+V0092,06/04/2026,Sebastián Rojas,bogotá,Impresora, Tecnologia ,5,650000,0%,Transferencia,28.0,Carlos
+V0898,07-06-2026,Diego Restrepo, Bogotá ,Cuaderno,PAPELERÍA,5,12000,0%,Nequi,34.0,
+V0565,18/05/26,Felipe Arias,,Teclado,tecnologia,2,120000,0%,Transferencia,63.0,Luisa
+V0777,11/06/26,Luisa Fernández,MANIZALES,Impresora, Tecnologia ,2,650000,10%,Tarjeta,52.0,María
+V0242,21-04-2026,Nicolás Quintero,ARMENIA,Maletín, Accesorios ,5,190000,15%,Nequi,29.0,Felipe
+V0014,21-05-2026,Mateo Díaz, Cali ,Bolígrafo,Papelería,1,3500,0%,Efectivo,66.0,Luisa
+V0316,03/02/2026,Camila Torres,CARTAGO,Teclado,tecnologia,3,120000,0%,Nequi,43.0,Luisa
+V0601,05/01/2026,Daniel Moreno,Cartago,Mochila, Accesorios ,3,140000,0.2,Efectivo,41.0,María
+V0388,01/06/26,Natalia Jiménez,CARTAGO,Monitor,Tecnología,2,850000,0.2,Nequi,64.0,Luisa
+V0167,09/01/26,Gabriela Muñoz,ARMENIA,Mochila, Accesorios ,4,140000,0.1,Efectivo,67.0,Felipe
+V0841,2026/05/03,Paula Sánchez, Medellín,Impresora,Tecnología ,1,650000,0,Tarjeta,69.0,Diana
+V0021,03/02/2026,Diego Restrepo,PEREIRA,Bolígrafo,papeleria,6,,10%,Nequi,25.0,María
+V0647,2026-01-28,Diego Restrepo,BOGOTA,Maletín, Accesorios ,6,190000,0%,Efectivo,60.0,María
+V1155,2026/01/12,Daniel Moreno,Armenia,Audífonos,Tecnología,6,180000,5%,Tarjeta,31.0,Luisa
+V0832,2026-06-21,Mateo Díaz,Bogota,Mouse,Tecnología,5,45000,0,Transferencia,30.0,Felipe
+V0563,2026-05-28,Santiago Hernández,pereira,Teclado,tecnologia,4,120000,10%,Transferencia,31.0,María
+V1243,06/01/2026,Diego Restrepo,Dosquebradas,Tablet,Tecnología,6,$1.100.000,5%,Tarjeta,30.0,Andrés
+V0687,2026/06/09,Diego Restrepo,cartago,Agenda,PAPELERÍA,4,25000,0.15,Efectivo,53.0,Luisa
+V0958,06/03/26,Gabriela Muñoz, Cali ,Silla ergonómica,OFICINA,6,720000,0,Tarjeta,22.0,Andrés
+V0190,2026-03-25,Natalia Jiménez,CARTAGO,Mochila,accesorios,2,140000,0%,Tarjeta,37.0,Luisa
+V0976,2026/03/25,Gabriela Muñoz,MANIZALES,Laptop,tecnologia,6,2500000,20%,Nequi,64.0,Diana
+V0700,2026/06/07,Mateo Díaz,medellin,Escritorio,Oficina,1,580000,0,Efectivo,58.0,Carlos
+V0511,2026-02-15,Mariana Castro,Cali,Laptop,Tecnología,4,$2.500.000,0.05,Tarjeta,36.0,Andrés
+V1083,2026-07-30,Sofía Ramírez,Medellín,Mouse,TECNOLOGÍA,6,45000,20%,Daviplata,18.0,Felipe
+V0475,2026/01/16,Juliana Morales,cartago,Mouse, Tecnologia ,4,45000,5%,Nequi,55.0,Diana
+V0857,2026/06/29,Diego Restrepo,pereira,Monitor,Tecnología ,3,850000,10%,Tarjeta,66.0,Diana
+V0748,2026/05/28,Sebastián Rojas,MANIZALES,Teclado,Tecnología,5,$120.000,15%,Daviplata,60.0,Luisa
+V0253,27/01/2026,Ana Pérez,CARTAGO,Tablet,TECNOLOGÍA,2,1100000,20%,Tarjeta,70.0,Carlos
+V0022,20/03/26,Alejandro Ortiz,medellin,Laptop,tecnologia,3,2500000,0%,Efectivo,67.0,Luisa
+V0460,27-01-2026,Mateo Díaz,Cartago,Laptop,Tecnología,6,2500000,15%,Daviplata,53.0,Carlos
+V1185,08/05/2026,Santiago Hernández,cartago,Mouse, Tecnologia ,2,45000,5%,Efectivo,44.0,Felipe
+V0277,25/07/2026,Manuela Cárdenas,pereira,Maletín,Accesorios,5,190000,10%,Transferencia,57.0,Luisa
+V0956,20/04/2026,Pedro Ruiz,pereira,Teclado,Tecnología,2,120000,0.05,Transferencia,62.0,María
+V1216,26-02-2026,Andrés Martínez,Medellín,Tablet,tecnologia,1,1100000,0,Efectivo,36.0,Andrés
+V0386,2026/03/27,Santiago Hernández,MANIZALES,Monitor,tecnologia,2,$850.000,0%,Daviplata,47.0,María
+V0806,10/07/26, Sofía Ramírez ,Armenia,Agenda,Papelería,3,25000,20%,Efectivo,69.0,Diana
+V0344,08/05/2026,Laura Gómez,CARTAGO,Mouse,Tecnología,2,45000,10%,Nequi,25.0,Felipe
+V0770,2026/05/30,Manuela Cárdenas,MEDELLÍN,Teclado,Tecnología ,1,120000,10%,Transferencia,48.0,Luisa
+V0131,12/05/2026,Juliana Morales,Bogotá,Teclado, Tecnologia ,4,120000,15%,Transferencia,19.0,Diana
+V0872,01/06/2026,Felipe Arias,Armenia,Agenda, Papelería,5,25000,0.05,Nequi,38.0,Felipe
+V1124,2026-05-12,Ana Pérez,Bogota,Silla ergonómica, Oficina ,1,720000,20%,Nequi,0.0,Luisa
+V0088,2026-01-22,Manuela Cárdenas,DOSQUEBRADAS,Agenda,PAPELERÍA,3,25000,20%,Tarjeta,65.0,Andrés
+V0331,17/03/26,Gabriela Muñoz, Medellín,Tablet, Tecnologia ,5,1100000,0%,Transferencia,23.0,Luisa
+V1239,11/01/26,Sofía Ramírez,DOSQUEBRADAS,Laptop, Tecnologia ,4,,5%,Transferencia,51.0,Luisa
+V0467,2026/01/26,Daniel Moreno,Medellín,Agenda,PAPELERÍA,-1,25000,10%,Transferencia,44.0,Diana
+V0122,07/03/26,Santiago Hernández,Cali,Cuaderno,papeleria,6,12000,15%,Efectivo,35.0,Carlos
+V1045,2026/02/20,Paula Sánchez,BOGOTA,Laptop,TECNOLOGÍA,5,2500000,0.1,Efectivo,31.0,Carlos
+V1096,17/05/26,Paula Sánchez, Bogotá ,Tablet,Tecnología,6,$1.100.000,20%,Daviplata,34.0,Carlos
+V1131,04-01-2026,Felipe Arias,BOGOTA,Bolígrafo,Papelería,5,3500,5%,Transferencia,25.0,Felipe
+V0861,2026-01-15,Natalia Jiménez,ARMENIA,Mouse,Tecnología ,6,45000,5%,Efectivo,0.0,Luisa
+V1127,2026-02-05,Paula Sánchez,Dosquebradas,Cuaderno,Papelería,-3,12000,0.1,Transferencia,68.0,Andrés

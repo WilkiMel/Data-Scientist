@@ -1,0 +1,8 @@
+﻿id_obligacion,id_cliente,dias_mora,saldo_pendiente,etapa_cobro,fecha_vencimiento
+1001,C01,15,1500000,Administrativo,2026-09-15
+1002,C02,45,3200000,Administrativo,2026-08-16
+1003,C03,110,8500000,Prejuridico,2026-06-12
+1004,C04,0,0,Al dia,2026-09-30
+1005,C05,95,12000000,Prejuridico,2026-06-27
+1006,C06,180,4500000,Juridico,2026-04-03
+1007,C07,5,600000,Administrativo,2026-09-25
